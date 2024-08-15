@@ -2,9 +2,7 @@
   "hash": "fd5f63d0bc7d8aa1df2040d610a0b81f",
   "result": {
     "markdown": "---\ntitle: \"SPAN 305 - The Structure of Spanish\"\n---\n\n\nThis is a Quarto website. And this is a test. \n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
-    "supporting": [
-      "index_files"
-    ],
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
