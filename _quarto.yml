@@ -11,6 +11,7 @@ website:
       - about.qmd
       - Span_305_syllabus.qmd
       - calendar.qmd
+      
 
 format:
   html:
