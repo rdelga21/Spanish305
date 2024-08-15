@@ -4,14 +4,20 @@ project:
 
 website:
   title: "The Structure of Spanish"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - Span_305_syllabus.qmd
-      - calendar.qmd
+  sidebar:
+    style: "docked"
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - section: "Syllabus"
+        contents: 
+        - Span_305_syllabus.qmd
+        - calendar.qmd
+      - section: "Semanas"
+        contents: 
+        - semana1.qmd
+        - semana2.qmd
       
-
 format:
   html:
     theme: cosmo
