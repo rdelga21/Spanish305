@@ -5,24 +5,23 @@ Este es al programa para el semester.
 
 -   Quiero mantenerme flexible en cuanto al programa del curso para poder adaptarlo a las necesidades de la clase. Por lo tanto, el siguiente programa está sujeto a cambios, aunque sirve de guía para el curso.
 
-| **Semana** | **Lunes**| **Miércoles** |**Viernes**| **Los Temas** |
+| **Semana** | **Martes**| **Jueves** |**Los Temas** |
 |------------|---------|--------------|-----------|-----------|
-| Semana 1 | January 15 - **no class** | 17 | 19 | Handout 1 - Introducción histórica; la adquisición |
-| Semana 2 | 22 | 24 | 26 | Handout 1 - La lengua como parte de nuestros genes; la linguística generativa; la lengua como parte innata; aprendizaje vs. adquisición |
-| Semana 3 | 29 | 31 | February 2 - **Tarea 1** | Handout 2 - El objeto de estudio; las fuentes de datos; el método científico; los rasgos en la sintaxis |
-| Semana 4 | 5 | 7 | 9 - **Tarea 2** | Handout 3 - las categorias sintácticas (o las partes de la oración) |
-| Semana 5 | 12 - **Examen 1**| 14 | 16 | Handout 4 - Introducción a los sintagmas (phrases) |
-| Semana 6 | 19 | 21 | 23- **Tarea 3** | Handout 5 - más sintagmas |
-| Semana 7 | 26| 28 | March 1 - **Tarea 4**| Handout 6 - aún más sintagmas (tiempo y complementante); la elipsis |
-| Semana 8 | 4 | 6  | 8 - **Examen 2** | Handout 6 - aún más sintagmas (tiempo y complementante); la elipsis  |
-| Semana 9 | 11 - **Spring break** | 13 - **Spring break** | 15 - **Spring break** |   
-| Semana 10 | 18 | 20 | 22 - **Tarea 4**| Handout 7 - la referencia, los determinantes, y los pronombres; Handout 8 - los pronombres reflexivos del español y las reglas estructurales |
-| Semana 11 | 25 | 27 | 29 - **Tarea 5**| Handout 9 - la estructura argumental: los argumentos vs. los adjuntos |
-| Semana 12 | April 1 | 3 | 5 - **Tarea 6**| Handout 10 - la teoría de X' |     
-| Semana 13 | 8 | 10  | 12 - **Examen 3** |  Handout 10 - la teoría de X' |
-| Semana 14 | 15| 17| 19 - **Tarea 7** | Handout 11 - Explicando parte de la variación |
-|Semana 15 | 22 | 24 | 26 - **Tarea 8**| Handout 12 - El movimiento de V a T y de T a C |
-|Semana 16 | 29 - **Repaso Examen Final** | May 1 - **Examen Final** | 
-
+| Semana 1 | August 27 - **no class** | 29| Handout 1 - Introducción histórica; la adquisición |
+| Semana 2 | September - 3 | 5 | Handout 1 - La lengua como parte de nuestros genes; la linguística generativa; la lengua como parte innata; aprendizaje vs. adquisición |
+| Semana 3 | 10 | 12 - **Tarea 1** | Handout 2 - El objeto de estudio; las fuentes de datos; el método científico; los rasgos en la sintaxis |
+| Semana 4 | 17 | 19 - **Tarea 2** | Handout 3 - las categorias sintácticas (o las partes de la oración) |
+| Semana 5 | 24 | 26 - **Tarea 3** | Handout 4 - Introducción a los sintagmas (phrases) and Handout 5 - más sintagmas |
+| Semana 6 | October - 1| 3 - **Tarea 4**| Handout 6 - aún más sintagmas (tiempo y complementante); la elipsis |
+| Semana 7 | 8 | 10 - **Examen 2** | Handout 6 - aún más sintagmas (tiempo y complementante); la elipsis  |
+| Semana 8 | 15 | 17 | Handout TBA |   
+| Semana 9 | 22 | 24 - **Tarea 4**| Handout 7 - la referencia, los determinantes, y los pronombres; Handout 8 - los pronombres reflexivos del español y las reglas estructurales |
+| Semana 10 | 29 | 31 - **Tarea 5**| Handout 9 - la estructura argumental: los argumentos vs. los adjuntos |
+| Semana 11 | November 5 |7 - **Tarea 6**| Handout 10 - la teoría de X' |     
+| Semana 12 | 12 | 14 - **Examen 3** |  Handout 10 - la teoría de X' |
+| Semana 13 | 19| 21 - **Tarea 7** | Handout 11 - Explicando parte de la variación |
+| Semana 14 - **Fall break**| 26 - **Fall break**| 28 - **Tarea 8**| Handout 12 - El movimiento de V a T y de T a C |
+|Semana 15 | December 3 - **Repaso Examen Final** | 5 - **Examen Final** | 
+| Semana 16 | 10 | Reading day - **No Class**
 
 

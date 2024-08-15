@@ -1,5 +1,5 @@
 ---
-title: "The Structure of Spanish (SPAN305"
+title: "The Structure of Spanish (SPAN305)"
 ---
 
 Esta es la página donde encontrarás los documentos para la clase. 
