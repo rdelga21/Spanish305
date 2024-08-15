@@ -1,0 +1,78 @@
+---
+title: "Syllabus - SPAN 305:The structure of Spanish"
+author:
+  - "Delgado, FA24"
+  - "TR 9:30 am - 10:50 pm"
+  - "336 Davenport Hall"
+highlight-style: pygments
+format:
+  html: default
+  pdf: default
+  docx: default
+---
+
+**Professor**: Dr. Rodrigo Delgado
+
+**Office**: 4135 Literatures, Cultures & Linguistics Building (LCLB)
+
+**Office hours**: By appointment only
+
+**email**: rdelga21\@illinois.edu
+
+## Objectivos principales del curso
+
+1.  Estudiar las ideas fundamentales de la lingüística generativa.
+
+2.  Estudiar en profundidad los elementos básicos de la oración del español, varias construcciones sintácticas, y las reglas básicas que regulan la estructura de la oración.
+
+## Materiales del curso
+
+1.  Partes del capítulo 1 y del 4 en **Introducción a la lingüística hispánica (2a edición) editado editado por J.I. Hualde, A. Olarrea, A.M. Escobar, y C.E. Travis, Cambridge: CUP.**
+
+2.  Los PPT que se usaran en clase.
+
+3.  Lecturas variadas que estarán disponibles en Canvas. Las lecturas estarán guardadas en la carpeta de la semana correspondiente. 
+
+Es muy importante que hagas las lecturas y que asistas a las clases. Las lecturas complementarán y ayudarán a reforzar el material presentado en clase. En clase, habrá varias oportunidades para hacer preguntas, discutir las lecturas y aclarar dudas.
+
+## La composición de la nota:
+
+1.  4 exámenes: **50%**
+    -   **Examen 1**: TBA
+    -   **Examen 2**: TBA
+    -   **Examen 3**: TBA
+    -   **Examen 4**: TBA
+    
+2.  8 Tareas: **40%**
+    - Las tareas ayudarán a concretar las conceptos que aprenderemos en clase. También servirán como práctica para los examenes. 
+    - Se les dará la tarea el jueves y se tendrá que entregar el siguiente martes durante la clase. 
+  
+3. Asistencia y participación: **10%**
+    
+**Life happens clause** - You can invoke the clause on one deadline and get a 3-day extension. No explanation required. To use it, please email me stating that you are invoking the clause and the name of the assignment. Tests are excluded. 
+
+## Programa del curso:
+
+-   Quiero mantenerme flexible en cuanto al programa del curso para poder adaptarlo a las necesidades de la clase. Por lo tanto, el siguiente programa está sujeto a cambios, aunque sirve de guía para el curso.
+
+| **Semana** | **Lunes**| **Miércoles** |**Viernes**| **Los Temas** |
+|------------|---------|--------------|-----------|-----------|
+| Semana 1 | January 15 - **no class** | 17 | 19 | Handout 1 - Introducción histórica; la adquisición |
+| Semana 2 | 22 | 24 | 26 | Handout 1 - La lengua como parte de nuestros genes; la linguística generativa; la lengua como parte innata; aprendizaje vs. adquisición |
+| Semana 3 | 29 | 31 | February 2 - **Tarea 1** | Handout 2 - El objeto de estudio; las fuentes de datos; el método científico; los rasgos en la sintaxis |
+| Semana 4 | 5 | 7 | 9 - **Tarea 2** | Handout 3 - las categorias sintácticas (o las partes de la oración) |
+| Semana 5 | 12 - **Examen 1**| 14 | 16 | Handout 4 - Introducción a los sintagmas (phrases) |
+| Semana 6 | 19 | 21 | 23- **Tarea 3** | Handout 5 - más sintagmas |
+| Semana 7 | 26| 28 | March 1 - **Tarea 4**| Handout 6 - aún más sintagmas (tiempo y complementante); la elipsis |
+| Semana 8 | 4 | 6  | 8 - **Examen 2** | Handout 6 - aún más sintagmas (tiempo y complementante); la elipsis  |
+| Semana 9 | 11 - **Spring break** | 13 - **Spring break** | 15 - **Spring break** |   
+| Semana 10 | 18 | 20 | 22 - **Tarea 4**| Handout 7 - la referencia, los determinantes, y los pronombres; Handout 8 - los pronombres reflexivos del español y las reglas estructurales |
+| Semana 11 | 25 | 27 | 29 - **Tarea 5**| Handout 9 - la estructura argumental: los argumentos vs. los adjuntos |
+| Semana 12 | April 1 | 3 | 5 - **Tarea 6**| Handout 10 - la teoría de X' |     
+| Semana 13 | 8 | 10  | 12 - **Examen 3** |  Handout 10 - la teoría de X' |
+| Semana 14 | 15| 17| 19 - **Tarea 7** | Handout 11 - Explicando parte de la variación |
+|Semana 15 | 22 | 24 | 26 - **Tarea 8**| Handout 12 - El movimiento de V a T y de T a C |
+|Semana 16 | 29 - **Repaso Examen Final** | May 1 - **Examen Final** | 
+
+
+
