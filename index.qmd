@@ -1,0 +1,11 @@
+---
+title: "SPAN 305 - The Structure of Spanish"
+---
+
+This is a Quarto website. And this is a test. 
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
