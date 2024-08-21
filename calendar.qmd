@@ -29,6 +29,8 @@ Este es al programa para el semester.
 |                |                       |                       |
 |                |                       | -   Aprendizaje vs.   |
 |                |                       |     adquisición       |
+|                |                       |                       |
+|                |                       | **Tarea 1**           |
 +----------------+-----------------------+-----------------------+
 | Semana 2       | Septiembre 3          | Septiembre 5          |
 |                |                       |                       |
@@ -37,7 +39,7 @@ Este es al programa para el semester.
 |                |                       |     (partes de la     |
 |                | -   Las fuentes de    |     oración)          |
 |                |     datos             |                       |
-|                |                       | **Tarea 1**           |
+|                |                       | **Tarea 2**           |
 |                | -   El método         |                       |
 |                |     científico        |                       |
 |                |                       |                       |
@@ -53,17 +55,21 @@ Este es al programa para el semester.
 |                | -   Introducción a    | -   Introducción a    |
 |                |     los sintagmas     |     los sintagmas     |
 |                |     -   Phrases       |     (cont.)           |
+|                |                       |                       |
+|                |                       | **Tarea 3**           |
 +----------------+-----------------------+-----------------------+
 | Semana 5       | Septiembre 24         | Septiembre 26         |
 |                |                       |                       |
 |                | -   Más sintagmas     | -   Más sintagmas     |
 |                |                       |     (cont.)           |
+|                |                       |                       |
+|                |                       | **Tarea 4**           |
 +----------------+-----------------------+-----------------------+
 | Semana 6       | Octubre 1             | Octubre 3             |
 |                |                       |                       |
 |                | -   Aún más sintagmas | -   La elipsis        |
 |                |                       |                       |
-|                |     -   Tiempo y      |                       |
+|                |     -   Tiempo y      | **Tarea 5**           |
 |                |                       |                       |
 |                |        complementante |                       |
 +----------------+-----------------------+-----------------------+
@@ -78,16 +84,22 @@ Este es al programa para el semester.
 |                | -   Los determinantes |                       |
 |                |                       |     -   Las reglas    |
 |                | -   Los pronombres    |         structurales  |
+|                |                       |                       |
+|                |                       | **Tarea 6**           |
 +----------------+-----------------------+-----------------------+
 | Semana 9       | Octubre 22            | Octubre 24            |
 |                |                       |                       |
 |                | -   La estructura     | -   Los argumentos    |
-|                |     argumental\       |     vs. los adjuntos\ |
+|                |     argumental\       |     vs. los adjuntos  |
+|                |                       |                       |
+|                |                       | **Tarea 7**           |
 +----------------+-----------------------+-----------------------+
 | Semana 10      | Octubre 29            | Octubre 31            |
 |                |                       |                       |
 |                | -   La teoría de X'\  | -   La teoría de X'   |
 |                |                       |     (cont.)           |
+|                |                       |                       |
+|                |                       | **Tarea 8**           |
 +----------------+-----------------------+-----------------------+
 | Semana 11      | Noviembre 5           | Noviembre 7           |
 |                |                       |                       |
@@ -97,12 +109,16 @@ Este es al programa para el semester.
 |                |                       |                       |
 |                | -   Explicando parte  | -   Explicando parte  |
 |                |     de la variación\  |     de la variación   |
-|                |                       |     (cont.)\          |
+|                |                       |     (cont.)           |
+|                |                       |                       |
+|                |                       | **Tarea 9**           |
 +----------------+-----------------------+-----------------------+
 | Semana 14      | Noviembre 19          | Noviembre 21          |
 |                |                       |                       |
 |                | -   El movimiento de  | -   El movimiento de  |
-|                |     V a T             |     T a C\            |
+|                |     V a T             |     T a C             |
+|                |                       |                       |
+|                |                       | **Tarea 10**          |
 +----------------+-----------------------+-----------------------+
 | **Fall break** | **Fall break**        | **Fall break**        |
 +----------------+-----------------------+-----------------------+
