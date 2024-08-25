@@ -13,10 +13,11 @@ website:
         contents: 
         - Span_305_syllabus.qmd
         - calendar.qmd
-      - section: "Semanas"
+      - section: "Semana 1"
         contents: 
         - semana1.qmd
-        - semana2.qmd
+        - semana1materials.qmd
+      - section: "Semana 2"
       
 format:
   html:

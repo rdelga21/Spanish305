@@ -1,5 +1,9 @@
 ---
 title: "Semana 1"
+author: "Rodrigo Delgado"
+format: revealjs
 ---
 
-This is to test to see if this works
+## Introducción histórica
+
+Brevemente situamos nuestro estudio del lenguaje en la historia de la lingüística
