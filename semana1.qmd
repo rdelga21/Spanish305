@@ -1,5 +1,5 @@
 ---
-title: "Semana 1"
+title: "Presentación"
 author: "Rodrigo Delgado"
 format: revealjs
 ---
