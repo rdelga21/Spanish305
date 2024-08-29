@@ -2,8 +2,359 @@
 title: "Presentación"
 author: "Rodrigo Delgado"
 format: revealjs
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 ## Introducción histórica
 
-Brevemente situamos nuestro estudio del lenguaje en la historia de la lingüística
+Brevemente situamos nuestro estudio del lenguaje en la historia de la
+lingüística
+
+## Las reglas prescriptivas vs. las reglas descriptivas
+
+- **Las reglas prescriptivas**: Indican cómo debería ser el lenguaje, cómo deberían usarla los hablantes y qué funciones y usos deberían tener los elementos que lo componen.
+
+- Por ejemplo, en la oración en (1), la lingüística prescriptiva diría que se debería usar **lo** en vez de **le** y **había** en (2).
+
+1.  María ha visto a Juan. Yo también le he visto.
+2.  Habían tres coches aparcados.
+
+## Las reglas prescriptivas vs. las reglas descriptivas
+
+- **Las reglas descriptivas**: Indican qué construcciones se usan en
+realidad y las circunstancias en qué se usan.
+
+- Por ejemplo, la lingüística descriptiva diría que se usa **le** en la zona
+de norte de España (y en otras partes de España), cuando el referente es
+masculino y animado. Y que se usa “habían” para reflejar que el sujeto
+de la oración es plural, como con “Son las tres/Es la una.”
+
+- **Importante**: La lingüística moderna es una lingüística descriptiva y
+es la lingüística que vamos a hacer nosotros.
+
+## Hacía la lingüística moderna
+
+-   **Los finales del siglo 18**: Un momento importante en la
+    lingüística moderna fue alrededor de los finales del siglo 18 (o
+    sea, por los años 1700). Se descubrió una conexión genealógica entre
+    la mayor parte de los idiomas de Europa y el sánscrito y otros
+    idiomas de la India e Irán.
+    -   El efecto era el desarrollo de estudios del lenguaje de una
+        *perspectiva diacrónica* (“histórica”) y estudios comparativos
+        entre lenguas próximas y remotas.
+
+## Hacía la lingüística moderna
+
+-   **A principios del siglo 20**: Gracias en gran parte a Ferdinand de
+    Saussure, el enfoque cambió del estudio *diacrónico* de las lenguas
+    al estudio *sincrónico* de las lenguas. Es decir, al estudio de una
+    lengua en un momento determinado en el tiempo.
+    -   Un efecto era un fomento en la investigación de lenguas que no
+        poseían un sistema de escritura, algo que era difícil hacer
+        desde una perspectiva histórica.
+    -   La principal contribución era señalar que todo idioma
+        constituye un *sistema*, con elementos relacionados entre sí.
+
+## Hacía la lingüística moderna
+
+(3) 
+-   **Latin** - Full noun with “long” e - *sē*
+-   **Old Spanish** - Full noun with “short” e - *se*
+-   **Modern Spanish** - A clitic pronoun attached to the verb - *se*
+
+## Hacía la lingüística moderna
+
+-   Un análisis *diacrónico* se preocupa por los cambios:
+
+(4) 
+
+    a.  este algodon es tal que **se non** quema por fuego \
+        this cotton is such that **SE not** burns by fire
+    b.  este algodón es tal que **no se** quema por el fuego
+    c.  \* este algodón es tal que **se no** quema por el fuego
+
+## Hacía la lingüística moderna
+
+-   Un análisis *diacrónico* se preocupa por los cambios:
+
+(5) 
+
+    a.  No hay guisa por que esto **se esto** diga\
+        not is fashion by which **SE this** say
+    b.  No hay manera por el cual **se dice esto**
+    c.  \* No hay manera por el cual **se esto** dice
+
+## Hacía la lingüística moderna
+
+-   Un análisis *sincrónico* se preocupa por el comportamiento actual de
+    los elementos:
+
+(6) 
+
+    a.  Juan **se** comió el pastel. - "SE aspectual"
+    b.  Juan **se lo** comió
+
+(7) 
+
+    a.  No **se** toca el oso - “SE impersonal"
+    b.  \* No **se lo** toca
+
+## Hacía la lingüística moderna
+
+-   **La segunda mitad del siglo 20**: La lingüística, y otras
+    disciplinas, en ese momento, estaba dominada por *el conductismo*
+    (“behaviorism”), que decía que la lengua debe ser descrito
+    simplemente como un conjunto de respuestas a un conjunto concreto de
+    estímulos.
+    -   Noam Chomsky, el fundador de la lingüística generativa, demostró
+        que no puede ser así, que es necesario describir el lenguaje
+        mediante modelos que implican estados o entidades mentales.
+
+    -   https://www.youtube.com/watch?v=ne6o-uPJarA
+
+## Pregunta
+
+En grupos, contesten esta pregunta:
+
+¿Cómo podemos tomar la teoría de Skinner y aplicarlo a la adquisición de
+una lengua?
+
+## La respuesta de Chomsky al conductismo
+
+-   https://www.youtube.com/watch?v=HdU_zWu7Gi4
+
+-   ¿Cuáles son los argumentos de Chomsky?
+
+## La respuesta de Chomsky al conductismo
+
+-   La adquisición del lenguaje no puede ser el resultado de un conjunto
+    de respuestas a un conjunto de estímulos concretos por una razón
+    principal: Podemos entender y producir oraciones que jamás hemos
+    oído antes, como la de (8).
+
+(8) Aquella monja habla japonés solo con mi suegra.
+
+¿Entonces, como adquiramos nuestras idiomas maternos?
+
+**La respuesta de Chomsky**: No se adquiere.
+
+# La adquisición
+
+## La adquisición
+
+-   Tenemos conocimiento (tácito) de nuestra lengua. Sabemos cosas que
+    nunca nos han enseñado.
+
+## Inglés
+
+(9) 
+
+    a.  You think that the thief stole what?
+    b.  What do you think that the thief stole \_\_?
+
+(10) 
+
+     a.  You saw the thief that stole what?
+     b.  \* What did you see the thief that stole \_\_?
+
+- Why is (10b) wrong?
+
+## Español
+
+(11) 
+
+     a.  ¿Crees que el ladrón robó qué?
+     b.  ¿Qué crees que robó el ladrón \_\_?
+
+(12) 
+
+     a.  ¿Ése es el ladrón que robó qué?
+     b.  \* ¿Qué es ése el ladrón que robó \_\_ ?
+
+- ¿Por qué está mal (12b)?
+
+## Español
+
+-   Otro ejemplo
+
+(13) 
+
+     a.  Juan se comió una pera.
+     b.  ¿Qué se comió Juan \_\_\_?
+     c.  Juan se bebió un agua.
+     d.  ¿Qué se bebió Juan \_\_\_?
+
+(14) 
+
+     a.  Juan se comió una pera y se bebió un agua.
+     b.  \* ¿Qué se comió Juan \_\_\_ y se bebió un agua?
+
+## La adquisición
+
+-   **Una pregunta**: ¿Quién nos ha enseñado de forma explicita esto
+    sobre nuestra lengua?
+-   **Otra pregunta**: ¿Cuántas oraciones agramaticales existen? ¿Crees
+    que es probable que nos han enseñado que todas las oraciones
+    agramaticales son agramaticales?
+-   **La conclusión**: Tenemos conocimientos (tácitos) de nuestras
+    lenguas sin que nos hayan enseñado de forma explicita.
+
+## El problema lógico de la adquisición del lenguaje
+
+(que se conoce también como “El problema de Platón”).
+
+-   **Premisa 1**: El Lenguaje es creativo e infinito.
+-   **Premisa 2**: No se puede aprender los sistemas infinitos.
+-   **Conclusión**: El Lenguaje no se aprende.
+
+## Premisa 1
+
+-   **El lenguaje creativo**: hay muchas oraciones que jamás has oído y hay
+    más que puedes producir.
+
+(15) Un agujero en la pared del sótano de tu primo parece una boca,
+     aunque le faltan los dientes, probablemente por ser un agujero.
+
+## Premisa 1
+
+-   **El lenguaje humano es recursivo**: Es decir, cualquier oración se
+    puede incrustar dentro de otra.
+
+(16) 
+
+     a.  \[Sofía come arándanos\]
+     b.  \[María cree que \[Sofía come arándanos\] \]
+     c.  \[José sabe que \[María cree que \[Sofía come arándanos\]\] \]
+     d.  \[Juan dijo que \[José sabe que \[María cree que \[Sofía come
+         arándanos\]\]\]
+     e.  etc…
+
+-   El número de oraciones de un idioma es infinito.
+
+## Premisa 1
+
+-   Otros ejemplos de infinitud en del Lenguaje
+
+(17) 
+
+     a.  Me gustan los pimientos muy picantes.
+     b.  Me gustan los pimientos muy muy picantes.
+     c.  Me gustan los pimientos muy muy muy picantes.
+     d.  Me gustan los pimientos muy muy muy muy picantes.
+     e.  etc…
+
+## Premisa 1
+
+-   Otros ejemplos de infinitud en del Lenguaje
+
+(18) 
+
+     a.  Susana
+     b.  Susana y Guillermo
+     c.  Susana, María y Guillermo
+     d.  Susana, Pedro, María y Guillermo
+     e.  Susana, Alejandro, Pedro, María y Guillermo
+     f.  Susana, Julia, Alejandro, Pedro, María y Guillermo
+
+<!-- -->
+
+g.  etc…
+
+## Premisa 2
+
+-   No se puede aprender los sistemas infinitos.
+
+Es decir, determinar una regla a base los datos presentes en el
+ambiente, o sólo a base de lo que uno está expuesto, no es posible, pues
+nunca se sabrá si ha sido expuesto a todos los datos necesarios para
+inducir la regla.
+
+## Premisa 2
+
+- **Una actividad en grupo**: Propón una regla o reglas que explica(n) la
+distribución del llamado “a” personal del español a base de los datos en
+(19). Es decir, ¿cuándo se usa la “a” personal?
+
+(19) 
+
+     a.  Juan vio a María.
+     b.  El león se comió a Juan.
+     c.  Juan vio la película.
+
+La regla:?
+
+## Premisa 2
+
+- **Más datos**: ¿Cómo se modifica la regla a base de los siguientes
+datos?
+
+(20) 
+
+     a.  Juan vio una avispa.
+     b.  El león se comió la oveja.
+
+La nueva regla: ?
+
+## Premisa 2
+**Más datos**: 
+
+(21) a.  El director busca una secretaria.
+     b.  El director busca a una secretaria.
+
+La nueva regla:?
+
+- **Otra pregunta**: ¿Y si nunca llegamos a estar expuestos a los datos en
+(20)? ¿Sabríamos que habría que modificar la regla? ¿Podríamos llegar a
+la regla correcta?
+
+## Premisa 2
+
+Otro ejemplo: Tomado de Carnie (2007)
+
+-   El input son las oraciones a que estamos expuesto en el ambiente, y
+    el output es lo que la gente produce. Podemos pensar que el trabajo
+    del niño es inducir la formula que regula el input y el output.
+
+## Premisa 2
+
+|       |         |        |
+|-------|---------|--------|
+| Input | Formula | Output |
+| X     |         | Y      |
+| 1     |         | 1      |
+| 2     |         | 2      |
+| 3     |         | 3      |
+| 4     |         | 4      |
+| 5     |         | 5      |
+| 6     |         | ?      |
+
+(22) ?=___
+
+## Premisa 2
+
+- Con una infinitud de oraciones, no se le puede esperar al niño que induce todas las reglas,
+pues siempre va a haber datos nuevos que pueden hacer cambiar la regla. 
+
+- Hay una
+infinitud de datos nuevos a que nunca estará expuesto el niño.
+
+## Premisa 2
+
+El problema lógico de la adquisición del lenguaje, simplificado:
+
+- No es posible determinar la reglas de un sistema hasta que tengas todos los datos.
+- El lenguaje es infinito y creativo, por lo tanto no puedes estar expuesto a todos los datos. (Es imposible saber si por casualidad no has oído todos los datos).
+- Consecuentemente: Las piezas principales del lenguaje no se puede aprender ni adquirir.
+
+## Chomsky
+
+La conclusión de Noam Chomsky:
+
+- La capacidad de los humanos para el Lenguaje es innata (es un instinto). Estamos preprogramados
+para tener el Lenguaje.
+- A esta programa o receta se le llama **una gramática**.
+
+Todos los seres humanos tenemos esa gramática – **la gramática universal (Universal
+Grammar “UG”)**
