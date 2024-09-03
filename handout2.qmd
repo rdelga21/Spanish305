@@ -1,0 +1,97 @@
+---
+title: "Semana 2"
+format: 
+  revealjs:
+    slide-number: true
+---
+
+## La lengua y los genes
+
+- Wernicke & Broca
+
+- Los animales
+
+## La lingüística generativa
+
+- El enfoque de la lingüística generativa son los mecanismos internos de la mente. El comportamiento lingüístico es (los textos, las manifestaciones del habla) solo son un conjunto de datos que aportan evidencias acerca de estos mecanismos internos. 
+
+- La sintaxis generativa intenta descubrir los mecanismos internos que regulan la formación de la oración.
+
+- **La gramática** es una teoría de la *competencia* (el conocimiento tácito que tiene el hablante de su propia lengua), no un modelo de la *actuación* (el uso concreto que el hablante hace de su competencia). 
+
+## La lingüística generativa
+
+- **La competencia**: Una representación mental de una gramática que tiene un hablante de su lengua. Es el conocimiento lingüístico de un hablante tal como está representado en su cerebro.
+    - Incluye: la fonética, la fonología, la morfología, la semántica, el léxico y la sintaxis (el enfoque de este curso).
+    
+- El Lenguaje es una parte de la composición biológica de nuestros cerebros.
+
+## ¿Qué es la lingüística?
+
+- Una suposición de la lingüística generativa: los seres humanos estamos preprogramados/genéticamente programados para adquirir y usar el lenguaje. A esta programa o receta se le llama **una gramática**.
+
+- Además todos los seres humanos estamos tenemos esa gramática – **la gramática universal (Universal Grammar “UG”)**
+
+## El Lenguaje como parte innata del cerebro/mente humana
+
+1. Estamos genéticamente programados para adquirir y utilizar el lenguaje. Otras especies no tienen el mismo lenguaje que los seres humanos. Los simios no pueden aprender un lenguaje humano. Vea los casos de Nim Chimpsky y otros.
+
+2. Las lesiones cerebrales en una parte del cerebro afecta el uso del lenguaje: afasia de Broca y afasia de Wernicke.
+
+## El Lenguaje como parte innata del cerebro/mente humana
+
+3. La facultad del lenguaje parece un módulo de la mente humana.
+    - Puede haber deficiencias que afectan otras funciones cognitivas, pero no el Lenguaje, como el caso de Christopher (que veremos por video).
+    
+## El Lenguaje como parte innata del cerebro/mente humana
+
+- Comunicación entre animales
+    - https://www.youtube.com/watch?v=JJ2ebYNtFUA
+- Los perros hablan
+    - https://www.youtube.com/watch?v=NJYpXDMPlKA
+    - https://www.youtube.com/shorts/g_SFBKafX3U
+- Koko
+    - https://www.youtube.com/watch?v=SNuZ4OE6vCk
+    
+## El Lenguaje como parte innata del cerebro/mente humana
+
+- Con una pareja
+    - ¿los animales pueden hablar?
+        - if yes, expliquen cómo
+        - if no, ¿cuál es la diferencia entre el lenguaje animal y humano?
+        
+## El Lenguaje como parte innata del cerebro/mente humana
+
+- https://www.youtube.com/watch?v=uYWSXRUGxDQ&t=0s
+
+## El Lenguaje como parte innata del cerebro/mente humana
+
+- Los animales no tienen:
+    - una gramática (reglas)
+    - no es productiva (creativa, recursiva)
+    
+## El Lenguaje como parte innata del cerebro/mente humana
+
+- El lenguaje complejo es algo humano
+
+- Entonces, si está en el cerebro, ¿cómo lo podemos saber?
+
+- Si tenemos algo en nuestro cerebro que maneja la lengua, se podría dañar mientras que otras habilidades cognitivas están bien
+    - Afasia 
+        - https://www.youtube.com/watch?v=-GsVhbmecJA
+        
+## El Lenguaje como parte innata del cerebro/mente humana
+
+- De lo contrario, deberiamos tener algo que pueda afectar otras habilidades cognitivas, pero que la lengua no esté afectada
+    - Christopher
+        - https://www.youtube.com/watch?v=hVfyZVaH9ag
+
+## Aprendizaje vs. adquisición 
+
+- **Aprendizaje**: consiste en obtener conocimientos de **forma consciente**.
+
+- **Adquisición**: consiste en obtener conocimientos de **forma inconsciente**. 
+    - La quimica se aprende, el lenguaje se adquiere
+        
+
+    

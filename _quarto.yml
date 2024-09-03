@@ -18,6 +18,7 @@ website:
         - semana1.qmd
         - semana1materials.qmd
       - section: "Semana 2"
+        - handout2.qmd
       
 format:
   html:
