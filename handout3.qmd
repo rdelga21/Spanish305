@@ -1,0 +1,254 @@
+---
+title: "Presentación 3"
+format: 
+  revealjs:
+    slide-number: true
+---
+
+## Resumen breve
+
+- Hemos visto que gran parte de nuestra lengua no se aprende. Tenemos conocimientos
+tácitos, sin que nos los hayan enseñado de forma explicita.
+- La conclusión de Chomsky: La capacidad de los humanos para el Lenguaje es innata (es
+un instinto). Estamos preprogramados para tener y usar el Lenguaje.
+- La parte común compartida entre todos seres humanos, la gramatical universal, tiene
+que ser suficientemente abstracto como para permitir que los niños adquieren cualquier
+lengua humana.
+
+## El objeto de estudio
+
+- Queremos investigar este objeto abstracto y determinar lo que es, su partes etc. 
+
+- Es decir, nos interesa la competencia no actuación de una lengua.
+
+## El objeto de estudio
+
+- **La competencia**: El conocimiento (muy a menudo tácito) que tiene un hablante de su lengua materna. → Es un objeto interno de la mente humana.
+	- lo que uno sabe cuando se dice que uno sabe un idioma es su competencia
+
+- **La actuación**: La producción/la externalización de la lengua, lo que “sale de la boca” cuando hablamos. 
+    - cómo utilizamos el lenguaje o lo que producimos el es la actuación (“performance”)
+
+## El objeto de estudio
+
+- Pregunta: ¿Cómo accedemos a la competencia? ¿Cuáles son nuestras fuentes de datos?
+
+## El objeto de estudio
+
+- Respuesta: Hay dos principales: (i) los corpus; y (ii) los juicios de (a)gramaticalidad del nativo hablante.
+
+# Las fuentes de datos 
+
+## Los corpus 
+
+- Los corpus de idiomas hablados y escritos; Grabaciones del habla actual de la gente; Grabaciones de conversaciones telefónicas; Periódicos, libros y revistas;  Cuentos folclóricos grabados en el campo; El internet, etc.
+
+- Miami Bangor Corpus
+
+## Los corpus 
+
+- En parejas contesten lo siguiente.
+    - ¿cuál es el problema de usar los corpus para entender la competencia lingüística?
+    
+## Los corpus 
+
+- El corpus es la **actuación** y no la competencia.
+
+- Uno usualmente no produce oraciones agramaticales
+    - Puede haber speech errors
+    
+- Como podemos estudiar la competencia?
+
+## Los juicios de (a)gramaticalidad – las intuiciones
+
+- Empleamos una técnica especial para sacar a luz los conocimientos innatos que tiene un nativo hablante sobre la sintaxis.
+
+(1) a. Juan compró la película.
+    b. \*Juan compró a la película.
+    
+## Juicios de gramaticalidad
+
+Rate the following sentences:
+
+- Who saw the man run?
+
+ 1    2     3     4     5     6     7
+ 
+ - 1 = completely unacceptable ; 7 = completely acceptable
+ 
+## Juicios de gramaticalidad
+
+Rate the following sentences:
+
+- who do you think that would win?
+
+ 1    2     3     4     5     6     7
+ 
+ - 1 = completely unacceptable ; 7 = completely acceptable
+
+## Juicios de gramaticalidad    
+    
+- Los juicios de gramaticalidad son **experimentalmente válidos y 
+estadísticamente robustos**. 
+
+- Son una indicación del sistema interna que regula la formación de las oraciones del idioma. 
+
+## Juicios sintácticos vs. juicios semánticos
+
+- Los juicios sintácticos tienen que ver con la **FORMA/ESTRUCTURA** de una oración y se marca con un asterisco (“*”) para indicar un problema sintáctico – cuando la oración es agramatical.
+
+(2) a. *Han los niños jugado.
+    b. *Padres llevan a sus hijos a la escuela.
+    
+## Juicios sintácticos vs. juicios semánticos
+
+- Los juicios semánticos tienen que ver con el **SIGNIFICADO** de una oración y se marca con un hashtag (“#”) para indicar un problema semántico – cuando la oración es anómala. 
+
+(3) a. #El archivador se bebió una silla.	
+    b. #Las ideas incoloras verdosas duermen furiosamente. 
+		(“Colorless green ideas sleep furiously” Chomsky (1959))
+		
+## Juicios sintácticos vs. juicios semánticos
+
+- Nota: Es posible que en algunos casos la interpretación es importante, pero nos interesa más aquí los juicios sintácticos – con oraciones estructuralmente ambiguas. 
+
+(4) a. El chico tocó el oso con una rama.
+    b. El chico lo tocó con una rama.
+
+## El objeto de estudio
+
+- El conjunto de oraciones gramaticales y agramaticales forman nuestra base de datos. Son observaciones (tal como los astrólogos observan el comportamiento de los cuerpos celestiales) a base de los cuales queremos determinar la esencia del objeto interno de estudio: **la gramatical universal**.
+
+- Nuestra perspectiva es la organización cognitiva de la estructura de la oración en le mente del hablante nativo.
+
+## El objeto de estudio
+
+- Pregunta: Pero ¿Cómo se hace esto?
+
+- La respuesta: Aplicamos el método científico para determinar la estructura de la oración. Queremos determinar las reglas, o principios, o las leyes (universales) de la formación de las oraciones.
+
+    
+## El método científico
+
+- El método científico
+    - Desarrollar alguna hipótesis para explicar un conjunto reducido de datos
+    - Determinar las implicaciones de la hipótesis
+    - Comprobar las implicaciones al considerar más datos y modificar la hipótesis si es necesario
+
+## Aplicando el método científico – los adjetivos del español
+
+- La estructura de una oración tiene que ver con la distribución de los elementos dentro de la oración – es decir, las condiciones que permite que aparece un elemento, dónde puede aparece etc. 
+
+## Aplicando el método científico – los adjetivos del español
+
+- **Actividad**: Considera (es decir, observa) la distribución de los adjetivos en español en el conjunto de oraciones en (5). Observa su comportamiento.
+
+## Aplicando el método científico – los adjetivos del español
+
+(5) a. Una mesa amarilla.	
+    b. Un vaso bonito.
+    c. *Una niña alto.	
+    d. *El chico simpática.
+    e. Una película larga.
+    f. *Un libro aburrida.
+    
+## Aplicando el método científico – los adjetivos del español
+    
+- Una pregunta: ¿Qué determina la distribución de los adjetivos? Es decir, ¿Cuándo son gramaticales y cuándo son agramaticales? Ofrece una hipótesis (o sea, “guess”).
+
+- Una hipótesis: ?
+
+## Aplicando el método científico – los adjetivos del español
+
+- Una pregunta: ¿Explica la distribución de los adjetivos en (6) tu hipótesis?
+
+## Aplicando el método científico – los adjetivos del español
+
+(6) a. Un chico simpático.
+    b. *Unos chicos simpático.
+    c. *Una chica preparadas. 
+    d. Unas chicas preparadas.
+    e. *Los libros corto.	
+    f. *El libro cortos.
+- Hipótesis modificada: ?
+    
+## Los rasgos en la sintaxis
+
+- En el siguiente handout hablaremos de las categorías sintácticas y juegan un papel importante en la sintaxis. Sin embargo, el ejercicio arriba demostrando el método científico aplicado a la sintaxis ya nos demuestra que hay elementos “más pequeños” que la categoría sintáctica: **los rasgos** (“features”). 
+
+# Las categorías sintácticas (o las partes de la oración)
+
+## Partes de la oración
+
+- Nuestra tarea como sintácticos es observar el comportamiento de los elementos o las piezas de la oración para determinar las reglas y principios de su combinación (que veremos que, en gran parte, son universales).
+
+- Una pregunta: ¿Cuáles son estas piezas fundamentales?
+
+- La respuesta: Las categorías sintácticas (o las partes de la oración)
+    - Los verbos, los sustantivos/nombres, los adjetivos, los adverbios, los determinantes, las conjunciones, las preposiciones, etc.
+    
+## Partes de la oración
+
+- Una pregunta: Pero, ¿Cómo sabemos que la palabra subrayada en (1a) es un sustantivo y las palabra subrayada en (1b) es un verbo?
+
+(1) a. La *destrucción* de la casa fue inesperada. 
+    b. Anoche, habían *destruido* la casa. 
+    
+- **La respuesta**: Por su distribución morfológica y sintáctica.
+
+- Primero vemos razones para no utilizar las formas “tradicionales” basadas en el significado.
+
+## Las categorías sintácticas: como reconocerlas.
+
+- Las definiciones clásicas o tradicionales de las categorías sintácticas, son definiciones semánticas.
+
+- Solo nos centramos en los sustantivos y los verbos. 
+
+**Sustantivo/Nombre**:  Una persona, un lugar, o alguna cosa 
+**Verbo**:  Una acción, una ocurrencia, o un estado de ser 
+
+## Las categorías sintácticas: como reconocerlas.
+
+- ¿Las palabras italicized son problemáticas para las definiciones clásicas? Explica tú respuesta.
+
+(2) a. Los pájaros suelen *cantar* por la mañana. 
+    b. Todos los días me despierta el *cantar* de los pájaros.
+    
+(3) a. Para buscar información utilizo *Google.*
+    b. Para encontrar la respuesta, mi amigo la *googleó.*
+
+(4) a. Tengo un *hambre* que me muero.
+    b. I am very *hungry.*
+    
+## Una definición distribucional de las categorías sintácticas: 
+
+- Determinamos la distribución de la categoría sintáctica de una palabra por los afijos que tiene y el contexto sintáctico (donde está en la oración) en que aparece.
+
+(5) a. La destrucción de la casa fue inesperada. 
+    b. Anoche, habían destruido la casa. 
+    
+## Una definición distribucional de las categorías sintácticas: 
+
+- Dos tipos de distribución: 
+
+- **La distribución morfológica** (afijos, prefijos, sufijos etc. que aparece en una palabra o no) 
+    - En (5a), vemos sufijo *-ción* que aparece en los sustantivos
+    - En (5b), vemos sufijo *–ido* que aparece en los verbos
+
+## Una definición distribucional de las categorías sintácticas: 
+
+- **La distribución sintáctica** (la posición relativa a palabras cercanas, combinaciones posibles, restricciones sintagmáticas (o sea el tipo de complemento que permite si permite alguno))
+    - En (5a), vemos la que aparece antes de los sustantivos, no permiten complemento sin la preposición *de*
+    - En (5b), vemos habían que antes de los verbos, permite un complemento, *la casa*
+    
+# Las categorías sintácticas según su distribución 
+
+
+
+
+
+
+
+
+
+

@@ -73,8 +73,8 @@
     "objectID": "semana1.html#introducción-histórica",
     "href": "semana1.html#introducción-histórica",
     "title": "Presentación",
-    "section": "Introducción histórica",
-    "text": "Introducción histórica\nBrevemente situamos nuestro estudio del lenguaje en la historia de la lingüística"
+    "section": "",
+    "text": "Brevemente situamos nuestro estudio del lenguaje en la historia de la lingüística"
   },
   {
     "objectID": "semana1_materials.html",
@@ -312,7 +312,7 @@
     "href": "semana1.html#premisa-2-7",
     "title": "Presentación",
     "section": "Premisa 2",
-    "text": "Premisa 2\nEl problema lógico de la adquisición del lenguaje, simplificado:\n\nNo es posible determinar la reglas de un sistema hasta que tengas todos los datos.\nEl Lenguaje es infinito y creativo, por lo tanto no puedes estar expuesto a todos los datos. (Es imposible saber si por casualidad no has oído todos los datos).\nConsecuentemente: Las piezas principales del lenguaje no se puede aprender ni adquirir."
+    "text": "Premisa 2\nEl problema lógico de la adquisición del lenguaje, simplificado:\n\nNo es posible determinar la reglas de un sistema hasta que tengas todos los datos.\nEl lenguaje es infinito y creativo, por lo tanto no puedes estar expuesto a todos los datos. (Es imposible saber si por casualidad no has oído todos los datos).\nConsecuentemente: Las piezas principales del lenguaje no se puede aprender ni adquirir."
   },
   {
     "objectID": "semana1.html#chomsky",
@@ -325,8 +325,8 @@
     "objectID": "handout2.html#la-lengua-y-los-genes",
     "href": "handout2.html#la-lengua-y-los-genes",
     "title": "Semana 2",
-    "section": "La lengua y los genes",
-    "text": "La lengua y los genes\n\nWernicke & Broca\nLos animales"
+    "section": "",
+    "text": "Wernicke & Broca\nLos animales"
   },
   {
     "objectID": "handout2.html#la-lingüística-generativa",
@@ -411,5 +411,264 @@
     "title": "Semana 2",
     "section": "Aprendizaje vs. adquisición",
     "text": "Aprendizaje vs. adquisición\n\nAprendizaje: consiste en obtener conocimientos de forma consciente.\nAdquisición: consiste en obtener conocimientos de forma inconsciente.\n\nLa quimica se aprende, el lenguaje se adquiere"
+  },
+  {
+    "objectID": "handout3.html#resumen",
+    "href": "handout3.html#resumen",
+    "title": "Presentación 3",
+    "section": "Resumen",
+    "text": "Resumen\n\nResumen breve\n\nHemos visto que gran parte de nuestra lengua no se aprende. Tenemos conocimientos tácitos, sin que nos los hayan enseñado de forma explicita.\nLa conclusión de Chomsky: La capacidad de los humanos para el Lenguaje es innata (es un instinto). Estamos preprogramados para tener y usar el Lenguaje.\nLa parte común compartida entre todos seres humanos, la gramatical universal, tiene que ser suficientemente abstracto como para permitir que los niños adquieren cualquier lengua humana."
+  },
+  {
+    "objectID": "handout3.html#el-objeto-de-estudio",
+    "href": "handout3.html#el-objeto-de-estudio",
+    "title": "Presentación 3",
+    "section": "El objeto de estudio",
+    "text": "El objeto de estudio\n\nQueremos investigar este objeto abstracto y determinar lo que es, su partes etc.\nEs decir, nos interesa la competencia no actuación de una lengua."
+  },
+  {
+    "objectID": "handout3.html#el-objeto-de-estudio-1",
+    "href": "handout3.html#el-objeto-de-estudio-1",
+    "title": "Presentación 3",
+    "section": "El objeto de estudio",
+    "text": "El objeto de estudio\n\nLa competencia: El conocimiento (muy a menudo tácito) que tiene un hablante de su lengua materna. → Es un objeto interno de la mente humana.\n\nlo que uno sabe cuando se dice que uno sabe un idioma es su competencia\n\nLa actuación: La producción/la externalización de la lengua, lo que “sale de la boca” cuando hablamos.\n\ncómo utilizamos el lenguaje o lo que producimos el es la actuación (“performance”)"
+  },
+  {
+    "objectID": "handout3.html#el-objeto-de-estudio-2",
+    "href": "handout3.html#el-objeto-de-estudio-2",
+    "title": "Presentación 3",
+    "section": "El objeto de estudio",
+    "text": "El objeto de estudio\n\nPregunta: ¿Cómo accedemos a la competencia? ¿Cuáles son nuestras fuentes de datos?"
+  },
+  {
+    "objectID": "handout3.html#el-objeto-de-estudio-3",
+    "href": "handout3.html#el-objeto-de-estudio-3",
+    "title": "Presentación 3",
+    "section": "El objeto de estudio",
+    "text": "El objeto de estudio\n\nRespuesta: Hay dos principales: (i) los corpus; y (ii) los juicios de (a)gramaticalidad del nativo hablante."
+  },
+  {
+    "objectID": "handout3.html#los-corpus",
+    "href": "handout3.html#los-corpus",
+    "title": "Presentación 3",
+    "section": "Los corpus",
+    "text": "Los corpus\n\nLos corpus de idiomas hablados y escritos; Grabaciones del habla actual de la gente; Grabaciones de conversaciones telefónicas; Periódicos, libros y revistas; Cuentos folclóricos grabados en el campo; El internet, etc.\nMiami Bangor Corpus"
+  },
+  {
+    "objectID": "handout3.html#los-corpus-1",
+    "href": "handout3.html#los-corpus-1",
+    "title": "Presentación 3",
+    "section": "Los corpus",
+    "text": "Los corpus\n\nEn parejas contesten lo siguiente.\n\n¿cuál es el problema de usar los corpus para entender la competencia lingüística?"
+  },
+  {
+    "objectID": "handout3.html#los-corpus-2",
+    "href": "handout3.html#los-corpus-2",
+    "title": "Presentación 3",
+    "section": "Los corpus",
+    "text": "Los corpus\n\nEl corpus es la actuación y no la competencia.\nUno usualmente no produce oraciones agramaticales\n\nPuede haber speech errors\n\nComo podemos estudiar la competencia?"
+  },
+  {
+    "objectID": "handout3.html#los-juicios-de-agramaticalidad-las-intuiciones",
+    "href": "handout3.html#los-juicios-de-agramaticalidad-las-intuiciones",
+    "title": "Presentación 3",
+    "section": "Los juicios de (a)gramaticalidad – las intuiciones",
+    "text": "Los juicios de (a)gramaticalidad – las intuiciones\n\nEmpleamos una técnica especial para sacar a luz los conocimientos innatos que tiene un nativo hablante sobre la sintaxis.\n\n\n\nJuan compró la película.\n*Juan compró a la película."
+  },
+  {
+    "objectID": "handout3.html#juicios-de-gramaticalidad",
+    "href": "handout3.html#juicios-de-gramaticalidad",
+    "title": "Presentación 3",
+    "section": "Juicios de gramaticalidad",
+    "text": "Juicios de gramaticalidad\nRate the following sentences:\n\nWho saw the man run?\n\n1 2 3 4 5 6 7\n\n1 = completely unacceptable ; 7 = completely acceptable"
+  },
+  {
+    "objectID": "handout3.html#juicios-de-gramaticalidad-1",
+    "href": "handout3.html#juicios-de-gramaticalidad-1",
+    "title": "Presentación 3",
+    "section": "Juicios de gramaticalidad",
+    "text": "Juicios de gramaticalidad\nRate the following sentences:\n\nwho do you think that would win?\n\n1 2 3 4 5 6 7\n\n1 = completely unacceptable ; 7 = completely acceptable"
+  },
+  {
+    "objectID": "handout3.html#juicios-sintácticos-vs.-juicios-semánticos",
+    "href": "handout3.html#juicios-sintácticos-vs.-juicios-semánticos",
+    "title": "Presentación 3",
+    "section": "Juicios sintácticos vs. juicios semánticos",
+    "text": "Juicios sintácticos vs. juicios semánticos\n\nLos juicios sintácticos tienen que ver con la FORMA/ESTRUCTURA de una oración y se marca con un asterisco (“*”) para indicar un problema sintáctico – cuando la oración es agramatical.\n\n\n\n*Han los niños jugado.\n*Padres llevan a sus hijos a la escuela."
+  },
+  {
+    "objectID": "handout3.html#juicios-sintácticos-vs.-juicios-semánticos-1",
+    "href": "handout3.html#juicios-sintácticos-vs.-juicios-semánticos-1",
+    "title": "Presentación 3",
+    "section": "Juicios sintácticos vs. juicios semánticos",
+    "text": "Juicios sintácticos vs. juicios semánticos\n\nLos juicios semánticos tienen que ver con el SIGNIFICADO de una oración y se marca con un hashtag (“#”) para indicar un problema semántico – cuando la oración es anómala.\n\n\n\n#El archivador se bebió una silla.\n\n#Las ideas incoloras verdosas duermen furiosamente. (“Colorless green ideas sleep furiously” Chomsky (1959))"
+  },
+  {
+    "objectID": "handout3.html#juicios-sintácticos-vs.-juicios-semánticos-2",
+    "href": "handout3.html#juicios-sintácticos-vs.-juicios-semánticos-2",
+    "title": "Presentación 3",
+    "section": "Juicios sintácticos vs. juicios semánticos",
+    "text": "Juicios sintácticos vs. juicios semánticos\n\nNota: Es posible que en algunos casos la interpretación es importante, pero nos interesa más aquí los juicios sintácticos – con oraciones estructuralmente ambiguas.\n\n\n\nEl chico tocó el oso con una rama.\nEl chico lo tocó con una rama."
+  },
+  {
+    "objectID": "handout3.html#el-objeto-de-estudio-4",
+    "href": "handout3.html#el-objeto-de-estudio-4",
+    "title": "Presentación 3",
+    "section": "El objeto de estudio",
+    "text": "El objeto de estudio\n\nEl conjunto de oraciones gramaticales y agramaticales forman nuestra base de datos. Son observaciones (tal como los astrólogos observan el comportamiento de los cuerpos celestiales) a base de los cuales queremos determinar la esencia del objeto interno de estudio: la gramatical universal.\nNuestra perspectiva es la organización cognitiva de la estructura de la oración en le mente del hablante nativo."
+  },
+  {
+    "objectID": "handout3.html#el-objeto-de-estudio-5",
+    "href": "handout3.html#el-objeto-de-estudio-5",
+    "title": "Presentación 3",
+    "section": "El objeto de estudio",
+    "text": "El objeto de estudio\n\nPregunta: Pero ¿Cómo se hace esto?\nLa respuesta: Aplicamos el método científico para determinar la estructura de la oración. Queremos determinar las reglas, o principios, o las leyes (universales) de la formación de las oraciones."
+  },
+  {
+    "objectID": "handout3.html#el-método-científico",
+    "href": "handout3.html#el-método-científico",
+    "title": "Presentación 3",
+    "section": "El método científico",
+    "text": "El método científico\n\nEl método científico\n\nDesarrollar alguna hipótesis para explicar un conjunto reducido de datos\nDeterminar las implicaciones de la hipótesis\nComprobar las implicaciones al considerar más datos y modificar la hipótesis si es necesario"
+  },
+  {
+    "objectID": "handout3.html#el-método-científico-1",
+    "href": "handout3.html#el-método-científico-1",
+    "title": "Presentación 3",
+    "section": "El método científico",
+    "text": "El método científico\n\nEn resumen: el método científico\n\nDesarrollar alguna hipótesis para explicar un conjunto reducido de datos\nDeterminar las implicaciones de la hipótesis\nComprobar las implicaciones al considerar más datos y modificar la hipótesis si es necesario"
+  },
+  {
+    "objectID": "handout3.html#aplicando-el-método-científico-los-adjetivos-del-español",
+    "href": "handout3.html#aplicando-el-método-científico-los-adjetivos-del-español",
+    "title": "Presentación 3",
+    "section": "Aplicando el método científico – los adjetivos del español",
+    "text": "Aplicando el método científico – los adjetivos del español\n\nLa estructura de una oración tiene que ver con la distribución de los elementos dentro de la oración – es decir, las condiciones que permite que aparece un elemento, dónde puede aparece etc."
+  },
+  {
+    "objectID": "handout3.html#aplicando-el-método-científico-los-adjetivos-del-español-1",
+    "href": "handout3.html#aplicando-el-método-científico-los-adjetivos-del-español-1",
+    "title": "Presentación 3",
+    "section": "Aplicando el método científico – los adjetivos del español",
+    "text": "Aplicando el método científico – los adjetivos del español\n\nActividad: Considera (es decir, observa) la distribución de los adjetivos en español en el conjunto de oraciones en (5). Observa su comportamiento."
+  },
+  {
+    "objectID": "handout3.html#aplicando-el-método-científico-los-adjetivos-del-español-2",
+    "href": "handout3.html#aplicando-el-método-científico-los-adjetivos-del-español-2",
+    "title": "Presentación 3",
+    "section": "Aplicando el método científico – los adjetivos del español",
+    "text": "Aplicando el método científico – los adjetivos del español\n\n\nUna mesa amarilla.\n\nUn vaso bonito.\n*Una niña alto.\n\n*El chico simpática.\nUna película larga.\n*Un libro aburrida."
+  },
+  {
+    "objectID": "handout3.html#aplicando-el-método-científico-los-adjetivos-del-español-3",
+    "href": "handout3.html#aplicando-el-método-científico-los-adjetivos-del-español-3",
+    "title": "Presentación 3",
+    "section": "Aplicando el método científico – los adjetivos del español",
+    "text": "Aplicando el método científico – los adjetivos del español\n\nUna pregunta: ¿Qué determina la distribución de los adjetivos? Es decir, ¿Cuándo son gramaticales y cuándo son agramaticales? Ofrece una hipótesis (o sea, “guess”).\nUna hipótesis: ?"
+  },
+  {
+    "objectID": "handout3.html#aplicando-el-método-científico-los-adjetivos-del-español-4",
+    "href": "handout3.html#aplicando-el-método-científico-los-adjetivos-del-español-4",
+    "title": "Presentación 3",
+    "section": "Aplicando el método científico – los adjetivos del español",
+    "text": "Aplicando el método científico – los adjetivos del español\n\nUna pregunta: ¿Explica la distribución de los adjetivos en (6) tu hipótesis?"
+  },
+  {
+    "objectID": "handout3.html#aplicando-el-método-científico-los-adjetivos-del-español-5",
+    "href": "handout3.html#aplicando-el-método-científico-los-adjetivos-del-español-5",
+    "title": "Presentación 3",
+    "section": "Aplicando el método científico – los adjetivos del español",
+    "text": "Aplicando el método científico – los adjetivos del español\n\n\nUn chico simpático.\n*Unos chicos simpático.\n*Una chica preparadas.\nUnas chicas preparadas.\n*Los libros corto.\n\n*El libro cortos.\n\n\n\nHipótesis modificada: ?"
+  },
+  {
+    "objectID": "handout3.html#aplicando-el-método-científico-los-adjetivos-del-español-6",
+    "href": "handout3.html#aplicando-el-método-científico-los-adjetivos-del-español-6",
+    "title": "Presentación 3",
+    "section": "Aplicando el método científico – los adjetivos del español",
+    "text": "Aplicando el método científico – los adjetivos del español"
+  },
+  {
+    "objectID": "handout3.html#los-rasgos-en-la-sintaxis",
+    "href": "handout3.html#los-rasgos-en-la-sintaxis",
+    "title": "Presentación 3",
+    "section": "Los rasgos en la sintaxis",
+    "text": "Los rasgos en la sintaxis\n\nEn el siguiente handout hablaremos de las categorías sintácticas y juegan un papel importante en la sintaxis. Sin embargo, el ejercicio arriba demostrando el método científico aplicado a la sintaxis ya nos demuestra que hay elementos “más pequeños” que la categoría sintáctica: los rasgos (“features”)."
+  },
+  {
+    "objectID": "handout3.html#resumen-breve",
+    "href": "handout3.html#resumen-breve",
+    "title": "Presentación 3",
+    "section": "Resumen breve",
+    "text": "Resumen breve\n\nHemos visto que gran parte de nuestra lengua no se aprende. Tenemos conocimientos tácitos, sin que nos los hayan enseñado de forma explicita.\nLa conclusión de Chomsky: La capacidad de los humanos para el Lenguaje es innata (es un instinto). Estamos preprogramados para tener y usar el Lenguaje.\nLa parte común compartida entre todos seres humanos, la gramatical universal, tiene que ser suficientemente abstracto como para permitir que los niños adquieren cualquier lengua humana."
+  },
+  {
+    "objectID": "handout3.html#partes-de-la-oración",
+    "href": "handout3.html#partes-de-la-oración",
+    "title": "Presentación 3",
+    "section": "Partes de la oración",
+    "text": "Partes de la oración\n\nNuestra tarea como sintácticos es observar el comportamiento de los elementos o las piezas de la oración para determinar las reglas y principios de su combinación (que veremos que, en gran parte, son universales).\nUna pregunta: ¿Cuáles son estas piezas fundamentales?\nLa respuesta: Las categorías sintácticas (o las partes de la oración)\n\nLos verbos, los sustantivos/nombres, los adjetivos, los adverbios, los determinantes, las conjunciones, las preposiciones, etc."
+  },
+  {
+    "objectID": "handout3.html#partes-de-la-oración-1",
+    "href": "handout3.html#partes-de-la-oración-1",
+    "title": "Presentación 3",
+    "section": "Partes de la oración",
+    "text": "Partes de la oración\n\nUna pregunta: Pero, ¿Cómo sabemos que la palabra subrayada en (1a) es un sustantivo y las palabra subrayada en (1b) es un verbo?\n\n\n\nLa destrucción de la casa fue inesperada.\nAnoche, habían destruido la casa.\n\n\n\nLa respuesta: Por su distribución morfológica y sintáctica.\nPrimero vemos razones para no utilizar las formas “tradicionales” basadas en el significado."
+  },
+  {
+    "objectID": "handout3.html#las-categorías-sintácticas-como-reconocerlas.",
+    "href": "handout3.html#las-categorías-sintácticas-como-reconocerlas.",
+    "title": "Presentación 3",
+    "section": "Las categorías sintácticas: como reconocerlas.",
+    "text": "Las categorías sintácticas: como reconocerlas.\n\nLas definiciones clásicas o tradicionales de las categorías sintácticas, son definiciones semánticas.\nSolo nos centramos en los sustantivos y los verbos.\n\nSustantivo/Nombre: Una persona, un lugar, o alguna cosa Verbo: Una acción, una ocurrencia, o un estado de ser"
+  },
+  {
+    "objectID": "handout3.html#las-categorías-sintácticas-como-reconocerlas.-1",
+    "href": "handout3.html#las-categorías-sintácticas-como-reconocerlas.-1",
+    "title": "Presentación 3",
+    "section": "Las categorías sintácticas: como reconocerlas.",
+    "text": "Las categorías sintácticas: como reconocerlas.\n\n¿Las palabras italicized son problemáticas para las definiciones clásicas? Explica tú respuesta.\n\n\n\nLos pájaros suelen cantar por la mañana.\nTodos los días me despierta el cantar de los pájaros.\n\n\nPara buscar información utilizo Google.\nPara encontrar la respuesta, mi amigo la googleó.\n\n\nTengo un hambre que me muero.\nI am very hungry."
+  },
+  {
+    "objectID": "handout3.html#una-definición-distribucional-de-las-categorías-sintácticas",
+    "href": "handout3.html#una-definición-distribucional-de-las-categorías-sintácticas",
+    "title": "Presentación 3",
+    "section": "Una definición distribucional de las categorías sintácticas:",
+    "text": "Una definición distribucional de las categorías sintácticas:\n\nDeterminamos la distribución de la categoría sintáctica de una palabra por los afijos que tiene y el contexto sintáctico (donde está en la oración) en que aparece.\n\n\n\nLa destrucción de la casa fue inesperada.\nAnoche, habían destruido la casa."
+  },
+  {
+    "objectID": "handout3.html#una-definición-distribucional-de-las-categorías-sintácticas-1",
+    "href": "handout3.html#una-definición-distribucional-de-las-categorías-sintácticas-1",
+    "title": "Presentación 3",
+    "section": "Una definición distribucional de las categorías sintácticas:",
+    "text": "Una definición distribucional de las categorías sintácticas:\n\nDos tipos de distribución:\nLa distribución morfológica (afijos, prefijos, sufijos etc. que aparece en una palabra o no)\n\nEn (5a), vemos sufijo -ción que aparece en los sustantivos\nEn (5b), vemos sufijo –ido que aparece en los verbos"
+  },
+  {
+    "objectID": "handout3.html#una-definición-distribucional-de-las-categorías-sintácticas-2",
+    "href": "handout3.html#una-definición-distribucional-de-las-categorías-sintácticas-2",
+    "title": "Presentación 3",
+    "section": "Una definición distribucional de las categorías sintácticas:",
+    "text": "Una definición distribucional de las categorías sintácticas:\n\nLa distribución sintáctica (la posición relativa a palabras cercanas, combinaciones posibles, restricciones sintagmáticas (o sea el tipo de complemento que permite si permite alguno))\n\nEn (5a), vemos la que aparece antes de los sustantivos, no permiten complemento sin la preposición de\nEn (5b), vemos habían que antes de los verbos, permite un complemento, la casa"
+  },
+  {
+    "objectID": "handout3.html#los-verbos",
+    "href": "handout3.html#los-verbos",
+    "title": "Presentación 3",
+    "section": "Los verbos",
+    "text": "Los verbos\nLa distribución morfológica\n\nAlgunos afijos derivativos:\n\n–e: gota → gotear; blanco  blanquear\ndes-: pluma → desplumar\nen-: papel → empapelar\n\n–ificar: ejemplo → ejemplificar\n–izar: órgano → organizar\n–ecer: húmedo → humedecer"
+  },
+  {
+    "objectID": "handout3.html#juicios-de-gramaticalidad-2",
+    "href": "handout3.html#juicios-de-gramaticalidad-2",
+    "title": "Presentación 3",
+    "section": "Juicios de gramaticalidad",
+    "text": "Juicios de gramaticalidad\n\nLos juicios de gramaticalidad son experimentalmente válidos y estadísticamente robustos.\nSon una indicación del sistema interna que regula la formación de las oraciones del idioma."
+  },
+  {
+    "objectID": "handout2.html",
+    "href": "handout2.html",
+    "title": "Semana 2",
+    "section": "",
+    "text": "Wernicke & Broca\nLos animales"
   }
 ]
