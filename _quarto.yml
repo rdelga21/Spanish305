@@ -21,6 +21,7 @@ website:
         contents:
         - handout2.qmd
         - handout3.qmd
+        - categorias.qmd
       
 format:
   html:
