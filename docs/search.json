@@ -73,8 +73,8 @@
     "objectID": "semana1.html#introducción-histórica",
     "href": "semana1.html#introducción-histórica",
     "title": "Presentación",
-    "section": "",
-    "text": "Brevemente situamos nuestro estudio del lenguaje en la historia de la lingüística"
+    "section": "Introducción histórica",
+    "text": "Introducción histórica\nBrevemente situamos nuestro estudio del lenguaje en la historia de la lingüística"
   },
   {
     "objectID": "semana1_materials.html",
@@ -325,8 +325,8 @@
     "objectID": "handout2.html#la-lengua-y-los-genes",
     "href": "handout2.html#la-lengua-y-los-genes",
     "title": "Semana 2",
-    "section": "",
-    "text": "Wernicke & Broca\nLos animales"
+    "section": "La lengua y los genes",
+    "text": "La lengua y los genes\n\nWernicke & Broca\nLos animales"
   },
   {
     "objectID": "handout2.html#la-lingüística-generativa",
@@ -677,5 +677,12 @@
     "title": "Categorías",
     "section": "",
     "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "handout3.html",
+    "href": "handout3.html",
+    "title": "Presentación 3",
+    "section": "",
+    "text": "Hemos visto que gran parte de nuestra lengua no se aprende. Tenemos conocimientos tácitos, sin que nos los hayan enseñado de forma explicita.\nLa conclusión de Chomsky: La capacidad de los humanos para el Lenguaje es innata (es un instinto). Estamos preprogramados para tener y usar el Lenguaje.\nLa parte común compartida entre todos seres humanos, la gramatical universal, tiene que ser suficientemente abstracto como para permitir que los niños adquieren cualquier lengua humana."
   }
 ]
