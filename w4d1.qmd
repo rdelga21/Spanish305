@@ -1,0 +1,139 @@
+---
+title: "Introducción a los sintagmas (“phrases”)"
+format: 
+  revealjs:
+    slide-number: true
+---
+
+## Las oraciones tienen una estructura interna
+
+- **Pregunta**: ¿Son las oraciones una simple secuencia lineal de palabras? 
+
+- **Respuesta**: No.
+
+## Las oraciones tienen una estructura interna
+
+- Hay varios motivos para concluir que la oración, en términos generales, tiene una estructura interna – las partes de la oración se combinan de una forma que resulta en una organización interna.
+
+- **Primero**: 	Hay una intuición de que algunas palabras se agrupan de forma más natural que otras.
+
+## Las oraciones tienen una estructura interna
+
+- Utilizando los corchetes (“square brackets”), indica las secuencias de palabras que parecen formar un grupo, en la oración en (1).
+
+(1)	El   chico   alto   come   arroz   blanco   en   un   restaurante   chino.
+
+## Las oraciones tienen una estructura interna
+
+- **Segundo**: 	Las operaciones y las reglas sintácticas no parecen depender del orden lineal de las palabras, sino de la estructura interna de la oración.
+
+(2)	a. El piloto **sabía** que los frenos fallaban.  
+    b. ¿**Sabía** el piloto que los frenos fallaban?
+    
+- **Una regla lineal posible**: Se mueve el primer verbo a la izquierda. 
+
+## Las oraciones tienen una estructura interna
+
+(3) a. El piloto que **ganó** la carrera **sabía** que los frenos fallaban. 
+    b. ¿**Sabía** el  piloto que **ganó** la carrera que los frenos fallaban?
+    c. \*¿**Ganó** el  piloto que la carrera **sabía** que los frenos fallaban?
+    
+- Estos ejemplos muestran que la regla está basada en nociones como verbo principal vs. verbo subordinada y en nociones como el sujeto.
+
+## Las oraciones tienen una estructura interna
+
+- **Tercero**: Las oraciones ambiguas, que tienen dos interpretaciones ¿Cómo se explican las dos interpretaciones con las misma secuencia de palabras?
+
+(4) Pedro habló a los estudiantes de lingüística.
+
+- Interpretación 1: 
+- Interpretación 2: 
+
+## Las oraciones tienen una estructura interna
+
+- **La conclusión**: La oración tiene una estructura interna. 
+
+- **Nuestra meta**: Determinar la estructura interna de la oración. 
+
+Lo que veremos: Las categorías sintácticas forman grupos de palabras más grandes – los sintagmas
+
+## Los Sintagmas
+
+- Cada categoría sintáctica se puede expandir en frase (“phrases”) más grandes. Los N en SN (sintagma nominal), los V en SV (sintagma verbales) etc.
+
+## El sintagma Nominal (SN)
+
+- Considera los objetos directos (en corchetes) en las oraciones de (5):
+
+(5)	a.	Jorge bebe [SN agua ]
+    b.	Jorge bebe [SN agua con limón]
+    c.	Jorge bebe [SN agua sucia]
+    d.	Jorge bebe [SN agua de manantial]
+    e.	Jorge bebe [SN agua sucia de manantial con limón]
+
+## El sintagma Nominal (SN)
+
+- Pregunta: ¿Hay algunas evidencias de que se porta como una unidad en la sintaxis?
+
+- Respuesta: Sí. Se mueve como unidad por ejemplo. Es decir, puede aparecer en posiciones distintas.
+
+## El sintagma Nominal (SN)
+
+(6)	a. Bebe agua.
+    b. Agua, bebe.
+
+(7)	a. Bebe agua con limón.
+    b. Agua con limón, bebe.
+
+(8)	a. Agua sucia, bebe.
+    b. Agua de manantial, bebe.
+    c. Agua sucia de manantial con limón, bebe.
+
+## El sintagma Nominal (SN)
+
+- Parece que estas secuencias de palabras forman un unidad en la oración. Lo podemos representar del siguiente modo. 
+
+![](handout41.png)
+
+                                          
+- Los triángulos indican que hay más estructura interna, pero no lo estamos representando (de momento).                                    
+- El nodo SN es la etiqueta de la unidad sintáctica: la secuencia agua con limón es un sintagma nominal (SN).
+
+## El Sintagma Determinante (SD)
+
+- Considera los objetos directos de las oraciones en (10)
+
+(10) a.	Juan se bebió [una cerveza].
+     b.	Juan se bebió [dos cervezas].
+     c.	Juan se bebió [mucha cerveza].	
+     d.	Juan se bebió [mi cerveza].	
+     e.	Juan se bebió [la cerveza].
+
+## El Sintagma Determinante (SD)
+
+Dos preguntas: 
+
+1. ¿De qué categoría sintáctica es *cerveza*?  
+
+2. ¿De qué categoría sintáctica son *una, dos, mucha, mi, la*?  
+
+## El Sintagma Determinante (SD)
+
+Las oraciones en (11) indican que el determinante (D) y el sustantivo (N) forman unidad sintáctica, ya que se mueven juntos.
+
+(11) a. Se bebió una cerveza.
+     b.	Una cerveza, se bebió.
+     c.	Se bebió mi cerveza.
+     d.	Mi cerveza, se bebió.
+     e.	Se bebió dos cervezas.
+     f.	Dos cervezas, se bebió.
+
+## El Sintagma Determinante (SD)
+
+- Por lo tanto, representamos una cerveza como en (12).
+
+(12) ![](handout42.png)
+
+- Es decir, el D con un N forman una unidad sintáctica que es el sintagma determinante (SD).
+
+- Una implicación: El SN está dentro del SD. En el siguiente handout, veremos evidencias de que es así.

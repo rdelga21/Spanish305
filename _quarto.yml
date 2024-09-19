@@ -22,7 +22,10 @@ website:
         - handout2.qmd
         - handout3.qmd
         - categorias.qmd
-      
+      - section: "Semana 4"
+        contents: 
+        - w4d1.qmd
+        - w4d2.qmd
 format:
   html:
     theme: cosmo
