@@ -26,6 +26,10 @@ website:
         contents: 
         - w4d1.qmd
         - w4d2.qmd
+      - section: "Semana 6"
+        contents: 
+        - handout7.qmd
+        - clausulas.qmd
 format:
   html:
     theme: cosmo
