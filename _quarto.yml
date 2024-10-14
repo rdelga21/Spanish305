@@ -30,6 +30,13 @@ website:
         contents: 
         - handout7.qmd
         - clausulas.qmd
+      - section: "Semana 8"
+        contents:
+        - referentes.qmd
+        - deixispersonal.qmd
+        - pronombrespersonales.qmd
+        - referenciasentido.qmd
+        - constituyentes.qmd
 format:
   html:
     theme: cosmo
