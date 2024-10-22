@@ -37,6 +37,9 @@ website:
         - pronombrespersonales.qmd
         - referenciasentido.qmd
         - constituyentes.qmd
+      - section: "Semana 9"
+        contents: 
+        - handout10.qmd
 format:
   html:
     theme: cosmo
