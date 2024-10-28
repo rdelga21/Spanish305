@@ -95,54 +95,397 @@
     "href": "calendar.html",
     "title": "Programa del curso",
     "section": "",
-    "text": "Este es al programa para el semester.\n\nQuiero mantenerme flexible en cuanto al programa del curso para poder adaptarlo a las necesidades de la clase. Por lo tanto, el siguiente programa está sujeto a cambios, aunque sirve de guía para el curso.\n\n\n\n\n\n\n\n\n\nSemana\nMartes\nJueves\n\n\n\n\nSemana 1\nAgosto 27\n\nIntroducción histórica\nLa adquisición\n\nAgosto 29\n\nLa lengua como parte de nuestros genes\nLa lingüística generativa\nLa lengua como parte innata\nAprendizaje vs. adquisición\n\nTarea 1\n\n\nSemana 2\nSeptiembre 3\n\nEl objeto de estudio\nLas fuentes de datos\nEl método científico\nLos rasgos en la sintaxis\n\nSeptiembre 5\n\nLas categorías sintácticas (partes de la oración)\n\nTarea 2\n\n\nSemana 3\nSeptiembre 10\nRepaso para el examen\nSeptiembre 12\nExamen 1\n\n\nSemana 4\nSeptiembre 17\n\nIntroducción a los sintagmas\n\nPhrases\n\n\nSeptiembre 19\n\nIntroducción a los sintagmas (cont.)\n\nTarea 3\n\n\nSemana 5\nSeptiembre 24\n\nMás sintagmas\n\nSeptiembre 26\n\nMás sintagmas (cont.)\n\nTarea 4\n\n\nSemana 6\nOctubre 1\n\nAún más sintagmas\n\nTiempo y\n\ncomplementante\n\nOctubre 3\n\nLa elipsis\n\nTarea 5\n\n\nSemana 7\nOctubre 8\nRepaso para el examen\nOctubre 10\nExamen 2\n\n\nSemana 8\nOctubre 15\n\nLa referencia\nLos determinantes\nLos pronombres\n\nOctubre 17\n\nLos pronombres reflexivos\n\nLas reglas structurales\n\n\nTarea 6\n\n\nSemana 9\nOctubre 22\n\nLa estructura argumental\n\n\nOctubre 24\n\nLos argumentos vs. los adjuntos\n\nTarea 7\n\n\nSemana 10\nOctubre 29\n\nLa teoría de X’\n\n\nOctubre 31\n\nLa teoría de X’ (cont.)\n\nTarea 8\n\n\nSemana 11\nNoviembre 5\nRepaso para el examen\nNoviembre 7\nExamen 3\n\n\n\nSemana 12\nNoviembre 12\n\nExplicando parte de la variación\n\n\nNoviembre 14\n\nExplicando parte de la variación (cont.)\n\nTarea 9\n\n\nSemana 14\nNoviembre 19\n\nEl movimiento de V a T\n\nNoviembre 21\n\nEl movimiento de T a C\n\nTarea 10\n\n\nFall break\nFall break\nFall break\n\n\nSemana 15\nDecember 3\nConferencia – No hay clase\nDecember 5\nConferencia - No hay clase\n\n\nSemana 16\nDecember 10\nExamen Final\nDecember 12\nReading day (no hay clase)"
+    "text": "Este es al programa para el semester.\n\nQuiero mantenerme flexible en cuanto al programa del curso para poder adaptarlo a las necesidades de la clase. Por lo tanto, el siguiente programa está sujeto a cambios, aunque sirve de guía para el curso.\n\n\n\n\n\n\n\n\n\nSemana\nMartes\nJueves\n\n\n\n\nSemana 1\nAgosto 27\n\nIntroducción histórica\nLa adquisición\n\nAgosto 29\n\nLa lengua como parte de nuestros genes\nLa lingüística generativa\nLa lengua como parte innata\nAprendizaje vs. adquisición\n\nTarea 1\n\n\nSemana 2\nSeptiembre 3\n\nEl objeto de estudio\nLas fuentes de datos\nEl método científico\nLos rasgos en la sintaxis\n\nSeptiembre 5\n\nLas categorías sintácticas (partes de la oración)\n\nTarea 2\n\n\nSemana 3\nSeptiembre 10\nRepaso para el examen\nSeptiembre 12\nExamen 1\n\n\nSemana 4\nSeptiembre 17\n\nIntroducción a los sintagmas\n\nPhrases\n\n\nSeptiembre 19\n\nIntroducción a los sintagmas (cont.)\n\nTarea 3\n\n\nSemana 5\nSeptiembre 24\n\nMás sintagmas\n\nSeptiembre 26\n\nMás sintagmas (cont.)\n\nTarea 4\n\n\nSemana 6\nOctubre 1\n\nAún más sintagmas\n\nTiempo y\n\ncomplementante\n\nOctubre 3\n\nLa elipsis\n\nTarea 5\n\n\nSemana 7\nOctubre 8\nRepaso para el examen\nOctubre 10\nExamen 2\n\n\nSemana 8\nOctubre 15\n\nLa referencia\nLos determinantes\nLos pronombres\n\nOctubre 17\n\nLos pronombres reflexivos\n\nLas reglas structurales\n\n\nTarea 6\n\n\nSemana 9\nOctubre 22\n\nLa estructura argumental\n\n\nOctubre 24\n\nLos argumentos vs. los adjuntos\n\nTarea 7\n\n\nSemana 10\nOctubre 29\n\nLa teoría de X’\n\n\nOctubre 31\n\nLa teoría de X’ (cont.)\n\nTarea 8\n\n\nSemana 11\nNoviembre 5\nRepaso para el examen\nNoviembre 7\nExamen 3\n\n\n\nSemana 12\nNoviembre 12\n\nC-mando\n\n\nNoviembre 14\n\nC-mando\n\nTarea 9\n\n\nSemana 14\nNoviembre 19\n\nEl movimiento de V a T\n\nNoviembre 21\n\nEl movimiento de T a C\n\nTarea 10\n\n\nFall break\nFall break\nFall break\n\n\nSemana 15\nDecember 3\nConferencia – No hay clase\nDecember 5\nConferencia - No hay clase\n\n\nSemana 16\nDecember 10\nExamen Final\nDecember 12\nReading day (no hay clase)"
   },
   {
-    "objectID": "handout10.html",
-    "href": "handout10.html",
-    "title": "Handout 10",
+    "objectID": "xbar.html",
+    "href": "xbar.html",
+    "title": "Teoría X’",
     "section": "",
     "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
   {
-    "objectID": "semana1materials.html",
-    "href": "semana1materials.html",
-    "title": "Materiales",
+    "objectID": "handout7.html",
+    "href": "handout7.html",
+    "title": "ST & SC",
     "section": "",
     "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
   {
-    "objectID": "semana1materials.html#hualde-et-al.-2010---pgs.-19-21",
-    "href": "semana1materials.html#hualde-et-al.-2010---pgs.-19-21",
-    "title": "Materiales",
+    "objectID": "referenciasentido.html",
+    "href": "referenciasentido.html",
+    "title": "Referencia y Sentido",
     "section": "",
     "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
   {
-    "objectID": "semana1materials.html#hualde-et-al.-2010---pgs.-1-12",
-    "href": "semana1materials.html#hualde-et-al.-2010---pgs.-1-12",
-    "title": "Materiales",
-    "section": "Hualde et al. (2010) - pgs. 1-12",
-    "text": "Hualde et al. (2010) - pgs. 1-12\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Span_305_syllabus.html",
+    "href": "Span_305_syllabus.html",
+    "title": "Syllabus",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Professor: Dr. Rodrigo Delgado\nOffice: 4135 Literatures, Cultures & Linguistics Building (LCLB)\nOffice hours: By appointment only\nemail: rdelga21@illinois.edu"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Structure of Spanish (SPAN305)",
+    "objectID": "Span_305_syllabus.html#objectivos-principales-del-curso",
+    "href": "Span_305_syllabus.html#objectivos-principales-del-curso",
+    "title": "Syllabus",
+    "section": "Objectivos principales del curso",
+    "text": "Objectivos principales del curso\n\nEstudiar las ideas fundamentales de la lingüística generativa.\nEstudiar en profundidad los elementos básicos de la oración del español, varias construcciones sintácticas, y las reglas básicas que regulan la estructura de la oración."
+  },
+  {
+    "objectID": "Span_305_syllabus.html#materiales-del-curso",
+    "href": "Span_305_syllabus.html#materiales-del-curso",
+    "title": "Syllabus",
+    "section": "Materiales del curso",
+    "text": "Materiales del curso\n\nPartes del capítulo 1 y del 4 en Introducción a la lingüística hispánica (2a edición) editado editado por J.I. Hualde, A. Olarrea, A.M. Escobar, y C.E. Travis, Cambridge: CUP.\nLos PPT que se usaran en clase.\nLecturas variadas que estarán disponibles en Canvas. Las lecturas estarán guardadas en la carpeta de la semana correspondiente.\n\nEs muy importante que hagas las lecturas y que asistas a las clases. Las lecturas complementarán y ayudarán a reforzar el material presentado en clase. En clase, habrá varias oportunidades para hacer preguntas, discutir las lecturas y aclarar dudas."
+  },
+  {
+    "objectID": "Span_305_syllabus.html#la-composición-de-la-nota",
+    "href": "Span_305_syllabus.html#la-composición-de-la-nota",
+    "title": "Syllabus",
+    "section": "La composición de la nota:",
+    "text": "La composición de la nota:\n\n4 exámenes: 50%\n\nExamen 1: Septiembre 12\nExamen 2: Octubre 10\nExamen 3: Noviembre 7\nExamen 4: Diciembre 10\n\n8 Tareas: 40%\n\nLas tareas ayudarán a concretar las conceptos que aprenderemos en clase. También servirán como práctica para los examenes.\nSe les dará la tarea el jueves y se tendrá que entregar el siguiente martes durante la clase.\n\nAsistencia: 5%\nParticipación: 5%\n\nLife happens clause - You can invoke the clause on one deadline and get a 3-day extension. No explanation required. To use it, please email me stating that you are invoking the clause and the name of the assignment. Tests are excluded."
+  },
+  {
+    "objectID": "w4d2.html#el-sintagma-adjetival-sadj",
+    "href": "w4d2.html#el-sintagma-adjetival-sadj",
+    "title": "Más sintagmas",
+    "section": "El Sintagma Adjetival (SAdj)",
+    "text": "El Sintagma Adjetival (SAdj)\n\n\nLa película es [larga]\nLa película es [muy larga]\n\n\n[Larga] es la película.\n[Muy larga] es la película."
+  },
+  {
+    "objectID": "w4d2.html#el-sintagma-adjetival-sadj-1",
+    "href": "w4d2.html#el-sintagma-adjetival-sadj-1",
+    "title": "Más sintagmas",
+    "section": "El Sintagma Adjetival (SAdj)",
+    "text": "El Sintagma Adjetival (SAdj)\n\n\n3."
+  },
+  {
+    "objectID": "w4d2.html#el-sintagma-adverbial-sadv",
+    "href": "w4d2.html#el-sintagma-adverbial-sadv",
+    "title": "Más sintagmas",
+    "section": "El Sintagma Adverbial (SAdv)",
+    "text": "El Sintagma Adverbial (SAdv)\n\n\nJuan salió [lentamente]\nJuan salió [bastante lentamente]\n\n\n[Lentamente] salió Juan.\n[Bastante lentamente] salió Juan."
+  },
+  {
+    "objectID": "w4d2.html#el-sintagma-adverbial-sadv-1",
+    "href": "w4d2.html#el-sintagma-adverbial-sadv-1",
+    "title": "Más sintagmas",
+    "section": "El Sintagma Adverbial (SAdv)",
+    "text": "El Sintagma Adverbial (SAdv)\n\n\n3."
+  },
+  {
+    "objectID": "w4d2.html#pruebas-de-constituyente",
+    "href": "w4d2.html#pruebas-de-constituyente",
+    "title": "Más sintagmas",
+    "section": "Pruebas de constituyente",
+    "text": "Pruebas de constituyente\n\nEl movimiento (o el desplazamiento) es lo que llamamos una prueba de constituyente.\nUn constituyente es un grupo de palabras que se porta como una unidad sintáctica. A estas unidades, les ponemos etiquetas como SD, SN, SAdj, SAdv, y como veremos más abajo, SV.\nEs decir, los nodos y todo debajo de los nodos forman un constituyente."
+  },
+  {
+    "objectID": "w4d2.html#pruebas-de-constituyente-1",
+    "href": "w4d2.html#pruebas-de-constituyente-1",
+    "title": "Más sintagmas",
+    "section": "Pruebas de constituyente",
+    "text": "Pruebas de constituyente\n\nUna pregunta: ¿Por qué podemos mover SDs, SNs, etc? Respuesta: Porque son constituyentes.\n\nEn este sentido el movimiento es una prueba de constituyente. Y hay más pruebas."
+  },
+  {
+    "objectID": "w4d2.html#la-sustitución",
+    "href": "w4d2.html#la-sustitución",
+    "title": "Más sintagmas",
+    "section": "La sustitución",
+    "text": "La sustitución\n\nEl SD\nCuándo un proforma sustituye una secuencia de palabra y resulta en el mismo significado, esta secuencia de palabras forman un constituyente."
+  },
+  {
+    "objectID": "w4d2.html#la-sustitución-1",
+    "href": "w4d2.html#la-sustitución-1",
+    "title": "Más sintagmas",
+    "section": "La sustitución",
+    "text": "La sustitución\n\n\nJuan se bebió [mi cerveza].\n[Mi cerveza], se bebió Juan.\nc."
+  },
+  {
+    "objectID": "w4d2.html#la-sustitución-2",
+    "href": "w4d2.html#la-sustitución-2",
+    "title": "Más sintagmas",
+    "section": "La sustitución",
+    "text": "La sustitución\n\nAhora, considera las siguientes oraciones.\n\n\n\nJuan se bebió mi cerveza.\nLa compré yo.\nMe costó mucho.\n\n\n\nDecimos que la en (8b) y el sujeto nulo en (8c) sustituye “mi cerveza” ya que se refieren a “mi cerveza”.\nSintácticamente, estos pronombres sustituyen el nodo SD"
+  },
+  {
+    "objectID": "w4d2.html#el-sadj-y-el-sadv",
+    "href": "w4d2.html#el-sadj-y-el-sadv",
+    "title": "Más sintagmas",
+    "section": "El SAdj y el SAdv",
+    "text": "El SAdj y el SAdv\n\nConsidera el SAdj en (9).\n\n\nEsta película es [muy larga]\nAquella lo es también.\nEsta es así también.\n\n\nUna pregunta: ¿Qué sustituye lo en (9b) y así en (9c)? ¿Es decir, que significan lo en (9b) y así en (9c)."
+  },
+  {
+    "objectID": "w4d2.html#el-sadj-y-el-sadv-1",
+    "href": "w4d2.html#el-sadj-y-el-sadv-1",
+    "title": "Más sintagmas",
+    "section": "El SAdj y el SAdv",
+    "text": "El SAdj y el SAdv\n\nConsidera el SAdv en (10).\n\n\n\nJuan salió [bastante lentamente]\nMaría salió así también.\n\n\n\nUna pregunta: ¿Qué sustituye así en (10b)? ¿Es decir, que significa así en (10b)"
+  },
+  {
+    "objectID": "w4d2.html#la-coordinación",
+    "href": "w4d2.html#la-coordinación",
+    "title": "Más sintagmas",
+    "section": "La coordinación",
+    "text": "La coordinación\n\nConsidera las oraciones en (11) en que aparecen las coordinaciones y, ni, y pero"
+  },
+  {
+    "objectID": "w4d2.html#la-coordinación-1",
+    "href": "w4d2.html#la-coordinación-1",
+    "title": "Más sintagmas",
+    "section": "La coordinación",
+    "text": "La coordinación\n\n\nTomas se comió una manzana y un queso.\nLa mesa pequeña y la silla con ruedas tienen que venderse.\nSusana hizo los deberes muy rápidamente y bastante bien.\nCuriosamente, contestó la pregunta bien y mal.\nEl edificio no es muy alto ni muy lujoso.\nUn perro sucio pero simpático durmió en mi garaje."
+  },
+  {
+    "objectID": "w4d2.html#la-coordinación-2",
+    "href": "w4d2.html#la-coordinación-2",
+    "title": "Más sintagmas",
+    "section": "La coordinación",
+    "text": "La coordinación\n\nActividad: Subraya las secuencias de palabras que están coordinadas en (11).\nPregunta: ¿Son constituyentes lo que coordinan y, ni y pero?"
+  },
+  {
+    "objectID": "w4d2.html#el-sintagma-verbal",
+    "href": "w4d2.html#el-sintagma-verbal",
+    "title": "Más sintagmas",
+    "section": "El sintagma verbal",
+    "text": "El sintagma verbal\n\nUna actividad en clase: Considera las oraciones en (12) a (13) con el proforma “hacerlo”.\n\n\n\nCarlos canta.\nConsuelo lo hace también.\n\n\nLaura nada.\nPedro lo hace también.\n\n\n\nPregunta 1: ¿Qué sustituye hacerlo en (12b) y en (13b)?"
+  },
+  {
+    "objectID": "w4d2.html#el-sintagma-verbal-1",
+    "href": "w4d2.html#el-sintagma-verbal-1",
+    "title": "Más sintagmas",
+    "section": "El sintagma verbal",
+    "text": "El sintagma verbal\n\nAhora, considera las oraciones en (14) a (16).\n\n\n\nMaría corrió el maratón rápidamente.\nJosefina lo hizo también.\n\n\nJuana construyó una casa en un año.\nCarla lo hizo también.\n\n\nJorge abrió la puerta con una llave.\nJuan lo hizo también.\n\n\n\nActividad: Subraya las palabras que sustituye hacerlo en (14) a (16).\nActividad: En grupos crea oraciones empleando la coordinación para demostrar que las secuencias de palabras subrayadas en (14) a (16) son constituyentes."
+  },
+  {
+    "objectID": "w4d2.html#los-modificadores",
+    "href": "w4d2.html#los-modificadores",
+    "title": "Más sintagmas",
+    "section": "Los modificadores",
+    "text": "Los modificadores\n\nConsidera el comportamiento de los modificadores de los Ns, Adjs, Advs, y Vs subrayados y las oraciones en (18).\nNota: Estamos observándolos para sacar una regla sintáctica sobre los modificadores."
+  },
+  {
+    "objectID": "w4d2.html#los-modificadores-1",
+    "href": "w4d2.html#los-modificadores-1",
+    "title": "Más sintagmas",
+    "section": "Los modificadores",
+    "text": "Los modificadores\n\n\n17."
+  },
+  {
+    "objectID": "w4d2.html#los-modificadores-2",
+    "href": "w4d2.html#los-modificadores-2",
+    "title": "Más sintagmas",
+    "section": "Los modificadores",
+    "text": "Los modificadores\n\n\nHay un pájaro bonito y un gusano feo en mi jardín.\nJuan canta bien pero baila mal.\n\n\n\nPregunta 1: ¿Por qué en (18a) feo no puede modificar pájaro, y bonito no puede modificar gusano? ¿Por qué bonito solo puede modificar pájaro, y feo solo puede modificar gusano? ¿Por qué en (18b) mal no puede modificar cantar, y bien no puede modificar baila? ¿Por qué bien solo puede modificar cantar, y mal solo puede modificar bailar?"
+  },
+  {
+    "objectID": "w4d2.html#los-modificadores-3",
+    "href": "w4d2.html#los-modificadores-3",
+    "title": "Más sintagmas",
+    "section": "Los modificadores",
+    "text": "Los modificadores\n\nEs decir: ¿Qué conclusión podemos sacar sobre la relación sintáctica entre los modificadores, los elementos modificados y los sintagmas?"
+  },
+  {
+    "objectID": "w4d2.html#los-modificadores-4",
+    "href": "w4d2.html#los-modificadores-4",
+    "title": "Más sintagmas",
+    "section": "Los modificadores",
+    "text": "Los modificadores\n\n¿Dónde tiene que estar el modificador para modificar otro elemento?\nConclusión:"
+  },
+  {
+    "objectID": "w4d2.html#los-modificadores-5",
+    "href": "w4d2.html#los-modificadores-5",
+    "title": "Más sintagmas",
+    "section": "Los modificadores",
+    "text": "Los modificadores\n\nAhora, considera la oración ambigua en (19). Apunta las dos interpretaciones.\n\n\nPedro compró un libro con una moneda.\n\n- Interpretación 1:\n\n- Interpretación 2:"
+  },
+  {
+    "objectID": "w4d2.html#los-modificadores-6",
+    "href": "w4d2.html#los-modificadores-6",
+    "title": "Más sintagmas",
+    "section": "Los modificadores",
+    "text": "Los modificadores\n\nUna pregunta: A base de nuestras conclusiones sobre la relación estructural entre los modificadores y los sintagmas ¿Qué diferencia estructural esperarías entre las dos interpretaciones de la oración ambigua? ¿En qué sintagma estará con una moneda en interpretación 1 y en interpretación 2?"
+  },
+  {
+    "objectID": "w4d2.html#los-modificadores-7",
+    "href": "w4d2.html#los-modificadores-7",
+    "title": "Más sintagmas",
+    "section": "Los modificadores",
+    "text": "Los modificadores\n\nPrincipio de modificación: Si un SX (un sintagma con la categoría X, es decir, cualquier categoría) modifica otro SY, SX es hijo de SY (y por extensión hermano del núcleo de SY).\n\n\nPero ¿Qué significan núcleo, padre, hijo y hermano?\nDefinimos estas nociones estructurales a base de los dos árboles que corresponden a las dos interpretaciones de (19), repetido abajo en (20)."
+  },
+  {
+    "objectID": "w4d2.html#los-modificadores-8",
+    "href": "w4d2.html#los-modificadores-8",
+    "title": "Más sintagmas",
+    "section": "Los modificadores",
+    "text": "Los modificadores\n\nPedro compró un libro con una moneda."
+  },
+  {
+    "objectID": "w4d2.html#los-modificadores-9",
+    "href": "w4d2.html#los-modificadores-9",
+    "title": "Más sintagmas",
+    "section": "Los modificadores",
+    "text": "Los modificadores\n\nPedro compró un libro con una moneda."
+  },
+  {
+    "objectID": "w4d2.html#los-modificadores-10",
+    "href": "w4d2.html#los-modificadores-10",
+    "title": "Más sintagmas",
+    "section": "Los modificadores",
+    "text": "Los modificadores\n\nEn (21a), el SP (con una moneda) es hijo de SN (y hermano de N)\nEn (21b), el SP (con una moneda) es hijo de SV (y hermano de V)"
+  },
+  {
+    "objectID": "w4d2.html#actividad",
+    "href": "w4d2.html#actividad",
+    "title": "Más sintagmas",
+    "section": "Actividad",
+    "text": "Actividad\nPractica: Dibuja los árboles para los siguientes sintagmas\n\n\n\n\nuna cerveza\nuna bonita historia\nuna mujer muy alta\nen la mesa\npara llegar a la hora\nel libro del siglo\nhizo el proyecto lentamente por la mañana\n\n\n\n\npor hablar mucho\nun joven colombiano\nJuan"
+  },
+  {
+    "objectID": "w4d1.html#las-oraciones-tienen-una-estructura-interna",
+    "href": "w4d1.html#las-oraciones-tienen-una-estructura-interna",
+    "title": "Introducción a los sintagmas (“phrases”)",
+    "section": "Las oraciones tienen una estructura interna",
+    "text": "Las oraciones tienen una estructura interna\n\nPregunta: ¿Son las oraciones una simple secuencia lineal de palabras?\nRespuesta: No."
+  },
+  {
+    "objectID": "w4d1.html#las-oraciones-tienen-una-estructura-interna-1",
+    "href": "w4d1.html#las-oraciones-tienen-una-estructura-interna-1",
+    "title": "Introducción a los sintagmas (“phrases”)",
+    "section": "Las oraciones tienen una estructura interna",
+    "text": "Las oraciones tienen una estructura interna\n\nHay varios motivos para concluir que la oración, en términos generales, tiene una estructura interna – las partes de la oración se combinan de una forma que resulta en una organización interna.\nPrimero: Hay una intuición de que algunas palabras se agrupan de forma más natural que otras."
+  },
+  {
+    "objectID": "w4d1.html#las-oraciones-tienen-una-estructura-interna-2",
+    "href": "w4d1.html#las-oraciones-tienen-una-estructura-interna-2",
+    "title": "Introducción a los sintagmas (“phrases”)",
+    "section": "Las oraciones tienen una estructura interna",
+    "text": "Las oraciones tienen una estructura interna\n\nUtilizando los corchetes (“square brackets”), indica las secuencias de palabras que parecen formar un grupo, en la oración en (1).\n\n\nEl chico alto come arroz blanco en un restaurante chino."
+  },
+  {
+    "objectID": "w4d1.html#las-oraciones-tienen-una-estructura-interna-3",
+    "href": "w4d1.html#las-oraciones-tienen-una-estructura-interna-3",
+    "title": "Introducción a los sintagmas (“phrases”)",
+    "section": "Las oraciones tienen una estructura interna",
+    "text": "Las oraciones tienen una estructura interna\n\nSegundo: Las operaciones y las reglas sintácticas no parecen depender del orden lineal de las palabras, sino de la estructura interna de la oración.\n\n\n\nEl piloto sabía que los frenos fallaban.\n\n¿Sabía el piloto que los frenos fallaban?\n\n\n\nUna regla lineal posible: Se mueve el primer verbo a la izquierda."
+  },
+  {
+    "objectID": "w4d1.html#las-oraciones-tienen-una-estructura-interna-4",
+    "href": "w4d1.html#las-oraciones-tienen-una-estructura-interna-4",
+    "title": "Introducción a los sintagmas (“phrases”)",
+    "section": "Las oraciones tienen una estructura interna",
+    "text": "Las oraciones tienen una estructura interna\n\n\nEl piloto que ganó la carrera sabía que los frenos fallaban.\n¿Sabía el piloto que ganó la carrera que los frenos fallaban?\n*¿Ganó el piloto que la carrera sabía que los frenos fallaban?\n\n\n\nEstos ejemplos muestran que la regla está basada en nociones como verbo principal vs. verbo subordinada y en nociones como el sujeto."
+  },
+  {
+    "objectID": "w4d1.html#las-oraciones-tienen-una-estructura-interna-5",
+    "href": "w4d1.html#las-oraciones-tienen-una-estructura-interna-5",
+    "title": "Introducción a los sintagmas (“phrases”)",
+    "section": "Las oraciones tienen una estructura interna",
+    "text": "Las oraciones tienen una estructura interna\n\nTercero: Las oraciones ambiguas, que tienen dos interpretaciones ¿Cómo se explican las dos interpretaciones con las misma secuencia de palabras?\n\n\nPedro habló a los estudiantes de lingüística.\n\n\nInterpretación 1:\nInterpretación 2:"
+  },
+  {
+    "objectID": "w4d1.html#las-oraciones-tienen-una-estructura-interna-6",
+    "href": "w4d1.html#las-oraciones-tienen-una-estructura-interna-6",
+    "title": "Introducción a los sintagmas (“phrases”)",
+    "section": "Las oraciones tienen una estructura interna",
+    "text": "Las oraciones tienen una estructura interna\n\nLa conclusión: La oración tiene una estructura interna.\nNuestra meta: Determinar la estructura interna de la oración.\n\nLo que veremos: Las categorías sintácticas forman grupos de palabras más grandes – los sintagmas"
+  },
+  {
+    "objectID": "w4d1.html#los-sintagmas",
+    "href": "w4d1.html#los-sintagmas",
+    "title": "Introducción a los sintagmas (“phrases”)",
+    "section": "Los Sintagmas",
+    "text": "Los Sintagmas\n\nCada categoría sintáctica se puede expandir en frase (“phrases”) más grandes. Los N en SN (sintagma nominal), los V en SV (sintagma verbales) etc."
+  },
+  {
+    "objectID": "w4d1.html#el-sintagma-nominal-sn",
+    "href": "w4d1.html#el-sintagma-nominal-sn",
+    "title": "Introducción a los sintagmas (“phrases”)",
+    "section": "El sintagma Nominal (SN)",
+    "text": "El sintagma Nominal (SN)\n\nConsidera los objetos directos (en corchetes) en las oraciones de (5):\n\n\n\nJorge bebe [SN agua ]\nJorge bebe [SN agua con limón]\nJorge bebe [SN agua sucia]\nJorge bebe [SN agua de manantial]\nJorge bebe [SN agua sucia de manantial con limón]"
+  },
+  {
+    "objectID": "w4d1.html#el-sintagma-nominal-sn-1",
+    "href": "w4d1.html#el-sintagma-nominal-sn-1",
+    "title": "Introducción a los sintagmas (“phrases”)",
+    "section": "El sintagma Nominal (SN)",
+    "text": "El sintagma Nominal (SN)\n\nPregunta: ¿Hay algunas evidencias de que se porta como una unidad en la sintaxis?\nRespuesta: Sí. Se mueve como unidad por ejemplo. Es decir, puede aparecer en posiciones distintas."
+  },
+  {
+    "objectID": "w4d1.html#el-sintagma-nominal-sn-2",
+    "href": "w4d1.html#el-sintagma-nominal-sn-2",
+    "title": "Introducción a los sintagmas (“phrases”)",
+    "section": "El sintagma Nominal (SN)",
+    "text": "El sintagma Nominal (SN)\n\n\nBebe agua.\nAgua, bebe.\n\n\nBebe agua con limón.\nAgua con limón, bebe.\n\n\nAgua sucia, bebe.\nAgua de manantial, bebe.\nAgua sucia de manantial con limón, bebe."
+  },
+  {
+    "objectID": "w4d1.html#el-sintagma-nominal-sn-3",
+    "href": "w4d1.html#el-sintagma-nominal-sn-3",
+    "title": "Introducción a los sintagmas (“phrases”)",
+    "section": "El sintagma Nominal (SN)",
+    "text": "El sintagma Nominal (SN)\n\nParece que estas secuencias de palabras forman un unidad en la oración. Lo podemos representar del siguiente modo.\n\n\n\nLos triángulos indican que hay más estructura interna, pero no lo estamos representando (de momento).\n\nEl nodo SN es la etiqueta de la unidad sintáctica: la secuencia agua con limón es un sintagma nominal (SN)."
+  },
+  {
+    "objectID": "w4d1.html#el-sintagma-determinante-sd",
+    "href": "w4d1.html#el-sintagma-determinante-sd",
+    "title": "Introducción a los sintagmas (“phrases”)",
+    "section": "El Sintagma Determinante (SD)",
+    "text": "El Sintagma Determinante (SD)\n\nConsidera los objetos directos de las oraciones en (10)\n\n\n\nJuan se bebió [una cerveza].\nJuan se bebió [dos cervezas].\nJuan se bebió [mucha cerveza].\n\nJuan se bebió [mi cerveza].\nJuan se bebió [la cerveza]."
+  },
+  {
+    "objectID": "w4d1.html#el-sintagma-determinante-sd-1",
+    "href": "w4d1.html#el-sintagma-determinante-sd-1",
+    "title": "Introducción a los sintagmas (“phrases”)",
+    "section": "El Sintagma Determinante (SD)",
+    "text": "El Sintagma Determinante (SD)\nDos preguntas:\n\n¿De qué categoría sintáctica es cerveza?\n¿De qué categoría sintáctica son una, dos, mucha, mi, la?"
+  },
+  {
+    "objectID": "w4d1.html#el-sintagma-determinante-sd-2",
+    "href": "w4d1.html#el-sintagma-determinante-sd-2",
+    "title": "Introducción a los sintagmas (“phrases”)",
+    "section": "El Sintagma Determinante (SD)",
+    "text": "El Sintagma Determinante (SD)\nLas oraciones en (11) indican que el determinante (D) y el sustantivo (N) forman unidad sintáctica, ya que se mueven juntos.\n\n\nSe bebió una cerveza.\nUna cerveza, se bebió.\nSe bebió mi cerveza.\nMi cerveza, se bebió.\nSe bebió dos cervezas.\nDos cervezas, se bebió."
+  },
+  {
+    "objectID": "w4d1.html#el-sintagma-determinante-sd-3",
+    "href": "w4d1.html#el-sintagma-determinante-sd-3",
+    "title": "Introducción a los sintagmas (“phrases”)",
+    "section": "El Sintagma Determinante (SD)",
+    "text": "El Sintagma Determinante (SD)\n\nPor lo tanto, representamos una cerveza como en (12).\n\n\n\n\n\nEs decir, el D con un N forman una unidad sintáctica que es el sintagma determinante (SD).\nUna implicación: El SN está dentro del SD. En el siguiente handout, veremos evidencias de que es así."
+  },
+  {
+    "objectID": "clausulas.html",
+    "href": "clausulas.html",
+    "title": "Constituyentes y cláusulas",
     "section": "",
-    "text": "Esta es la página donde encontrarás los documentos para la clase."
+    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
   {
-    "objectID": "pronombrespersonales.html",
-    "href": "pronombrespersonales.html",
-    "title": "Pronombres Personales",
+    "objectID": "categorias.html",
+    "href": "categorias.html",
+    "title": "Categorías",
+    "section": "",
+    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "constituyentes.html",
+    "href": "constituyentes.html",
+    "title": "Constituyentes",
+    "section": "",
+    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "carnie.html",
+    "href": "carnie.html",
+    "title": "Carnie-Ch.8",
+    "section": "",
+    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "referentes.html",
+    "href": "referentes.html",
+    "title": "Referentes",
     "section": "",
     "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
@@ -371,380 +714,51 @@
     "text": "Chomsky\nLa conclusión de Noam Chomsky:\n\nLa capacidad de los humanos para el Lenguaje es innata (es un instinto). Estamos preprogramados para tener el Lenguaje.\nA esta programa o receta se le llama una gramática.\n\nTodos los seres humanos tenemos esa gramática – la gramática universal (Universal Grammar “UG”)"
   },
   {
-    "objectID": "referentes.html",
-    "href": "referentes.html",
-    "title": "Referentes",
+    "objectID": "pronombrespersonales.html",
+    "href": "pronombrespersonales.html",
+    "title": "Pronombres Personales",
     "section": "",
     "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
   {
-    "objectID": "constituyentes.html",
-    "href": "constituyentes.html",
-    "title": "Constituyentes",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Structure of Spanish (SPAN305)",
+    "section": "",
+    "text": "Esta es la página donde encontrarás los documentos para la clase."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "semana1materials.html",
+    "href": "semana1materials.html",
+    "title": "Materiales",
     "section": "",
     "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
   {
-    "objectID": "categorias.html",
-    "href": "categorias.html",
-    "title": "Categorías",
+    "objectID": "semana1materials.html#hualde-et-al.-2010---pgs.-19-21",
+    "href": "semana1materials.html#hualde-et-al.-2010---pgs.-19-21",
+    "title": "Materiales",
     "section": "",
     "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
   {
-    "objectID": "clausulas.html",
-    "href": "clausulas.html",
-    "title": "Constituyentes y cláusulas",
-    "section": "",
-    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+    "objectID": "semana1materials.html#hualde-et-al.-2010---pgs.-1-12",
+    "href": "semana1materials.html#hualde-et-al.-2010---pgs.-1-12",
+    "title": "Materiales",
+    "section": "Hualde et al. (2010) - pgs. 1-12",
+    "text": "Hualde et al. (2010) - pgs. 1-12\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
   {
-    "objectID": "w4d1.html#las-oraciones-tienen-una-estructura-interna",
-    "href": "w4d1.html#las-oraciones-tienen-una-estructura-interna",
-    "title": "Introducción a los sintagmas (“phrases”)",
-    "section": "Las oraciones tienen una estructura interna",
-    "text": "Las oraciones tienen una estructura interna\n\nPregunta: ¿Son las oraciones una simple secuencia lineal de palabras?\nRespuesta: No."
-  },
-  {
-    "objectID": "w4d1.html#las-oraciones-tienen-una-estructura-interna-1",
-    "href": "w4d1.html#las-oraciones-tienen-una-estructura-interna-1",
-    "title": "Introducción a los sintagmas (“phrases”)",
-    "section": "Las oraciones tienen una estructura interna",
-    "text": "Las oraciones tienen una estructura interna\n\nHay varios motivos para concluir que la oración, en términos generales, tiene una estructura interna – las partes de la oración se combinan de una forma que resulta en una organización interna.\nPrimero: Hay una intuición de que algunas palabras se agrupan de forma más natural que otras."
-  },
-  {
-    "objectID": "w4d1.html#las-oraciones-tienen-una-estructura-interna-2",
-    "href": "w4d1.html#las-oraciones-tienen-una-estructura-interna-2",
-    "title": "Introducción a los sintagmas (“phrases”)",
-    "section": "Las oraciones tienen una estructura interna",
-    "text": "Las oraciones tienen una estructura interna\n\nUtilizando los corchetes (“square brackets”), indica las secuencias de palabras que parecen formar un grupo, en la oración en (1).\n\n\nEl chico alto come arroz blanco en un restaurante chino."
-  },
-  {
-    "objectID": "w4d1.html#las-oraciones-tienen-una-estructura-interna-3",
-    "href": "w4d1.html#las-oraciones-tienen-una-estructura-interna-3",
-    "title": "Introducción a los sintagmas (“phrases”)",
-    "section": "Las oraciones tienen una estructura interna",
-    "text": "Las oraciones tienen una estructura interna\n\nSegundo: Las operaciones y las reglas sintácticas no parecen depender del orden lineal de las palabras, sino de la estructura interna de la oración.\n\n\n\nEl piloto sabía que los frenos fallaban.\n\n¿Sabía el piloto que los frenos fallaban?\n\n\n\nUna regla lineal posible: Se mueve el primer verbo a la izquierda."
-  },
-  {
-    "objectID": "w4d1.html#las-oraciones-tienen-una-estructura-interna-4",
-    "href": "w4d1.html#las-oraciones-tienen-una-estructura-interna-4",
-    "title": "Introducción a los sintagmas (“phrases”)",
-    "section": "Las oraciones tienen una estructura interna",
-    "text": "Las oraciones tienen una estructura interna\n\n\nEl piloto que ganó la carrera sabía que los frenos fallaban.\n¿Sabía el piloto que ganó la carrera que los frenos fallaban?\n*¿Ganó el piloto que la carrera sabía que los frenos fallaban?\n\n\n\nEstos ejemplos muestran que la regla está basada en nociones como verbo principal vs. verbo subordinada y en nociones como el sujeto."
-  },
-  {
-    "objectID": "w4d1.html#las-oraciones-tienen-una-estructura-interna-5",
-    "href": "w4d1.html#las-oraciones-tienen-una-estructura-interna-5",
-    "title": "Introducción a los sintagmas (“phrases”)",
-    "section": "Las oraciones tienen una estructura interna",
-    "text": "Las oraciones tienen una estructura interna\n\nTercero: Las oraciones ambiguas, que tienen dos interpretaciones ¿Cómo se explican las dos interpretaciones con las misma secuencia de palabras?\n\n\nPedro habló a los estudiantes de lingüística.\n\n\nInterpretación 1:\nInterpretación 2:"
-  },
-  {
-    "objectID": "w4d1.html#las-oraciones-tienen-una-estructura-interna-6",
-    "href": "w4d1.html#las-oraciones-tienen-una-estructura-interna-6",
-    "title": "Introducción a los sintagmas (“phrases”)",
-    "section": "Las oraciones tienen una estructura interna",
-    "text": "Las oraciones tienen una estructura interna\n\nLa conclusión: La oración tiene una estructura interna.\nNuestra meta: Determinar la estructura interna de la oración.\n\nLo que veremos: Las categorías sintácticas forman grupos de palabras más grandes – los sintagmas"
-  },
-  {
-    "objectID": "w4d1.html#los-sintagmas",
-    "href": "w4d1.html#los-sintagmas",
-    "title": "Introducción a los sintagmas (“phrases”)",
-    "section": "Los Sintagmas",
-    "text": "Los Sintagmas\n\nCada categoría sintáctica se puede expandir en frase (“phrases”) más grandes. Los N en SN (sintagma nominal), los V en SV (sintagma verbales) etc."
-  },
-  {
-    "objectID": "w4d1.html#el-sintagma-nominal-sn",
-    "href": "w4d1.html#el-sintagma-nominal-sn",
-    "title": "Introducción a los sintagmas (“phrases”)",
-    "section": "El sintagma Nominal (SN)",
-    "text": "El sintagma Nominal (SN)\n\nConsidera los objetos directos (en corchetes) en las oraciones de (5):\n\n\n\nJorge bebe [SN agua ]\nJorge bebe [SN agua con limón]\nJorge bebe [SN agua sucia]\nJorge bebe [SN agua de manantial]\nJorge bebe [SN agua sucia de manantial con limón]"
-  },
-  {
-    "objectID": "w4d1.html#el-sintagma-nominal-sn-1",
-    "href": "w4d1.html#el-sintagma-nominal-sn-1",
-    "title": "Introducción a los sintagmas (“phrases”)",
-    "section": "El sintagma Nominal (SN)",
-    "text": "El sintagma Nominal (SN)\n\nPregunta: ¿Hay algunas evidencias de que se porta como una unidad en la sintaxis?\nRespuesta: Sí. Se mueve como unidad por ejemplo. Es decir, puede aparecer en posiciones distintas."
-  },
-  {
-    "objectID": "w4d1.html#el-sintagma-nominal-sn-2",
-    "href": "w4d1.html#el-sintagma-nominal-sn-2",
-    "title": "Introducción a los sintagmas (“phrases”)",
-    "section": "El sintagma Nominal (SN)",
-    "text": "El sintagma Nominal (SN)\n\n\nBebe agua.\nAgua, bebe.\n\n\nBebe agua con limón.\nAgua con limón, bebe.\n\n\nAgua sucia, bebe.\nAgua de manantial, bebe.\nAgua sucia de manantial con limón, bebe."
-  },
-  {
-    "objectID": "w4d1.html#el-sintagma-nominal-sn-3",
-    "href": "w4d1.html#el-sintagma-nominal-sn-3",
-    "title": "Introducción a los sintagmas (“phrases”)",
-    "section": "El sintagma Nominal (SN)",
-    "text": "El sintagma Nominal (SN)\n\nParece que estas secuencias de palabras forman un unidad en la oración. Lo podemos representar del siguiente modo.\n\n\n\nLos triángulos indican que hay más estructura interna, pero no lo estamos representando (de momento).\n\nEl nodo SN es la etiqueta de la unidad sintáctica: la secuencia agua con limón es un sintagma nominal (SN)."
-  },
-  {
-    "objectID": "w4d1.html#el-sintagma-determinante-sd",
-    "href": "w4d1.html#el-sintagma-determinante-sd",
-    "title": "Introducción a los sintagmas (“phrases”)",
-    "section": "El Sintagma Determinante (SD)",
-    "text": "El Sintagma Determinante (SD)\n\nConsidera los objetos directos de las oraciones en (10)\n\n\n\nJuan se bebió [una cerveza].\nJuan se bebió [dos cervezas].\nJuan se bebió [mucha cerveza].\n\nJuan se bebió [mi cerveza].\nJuan se bebió [la cerveza]."
-  },
-  {
-    "objectID": "w4d1.html#el-sintagma-determinante-sd-1",
-    "href": "w4d1.html#el-sintagma-determinante-sd-1",
-    "title": "Introducción a los sintagmas (“phrases”)",
-    "section": "El Sintagma Determinante (SD)",
-    "text": "El Sintagma Determinante (SD)\nDos preguntas:\n\n¿De qué categoría sintáctica es cerveza?\n¿De qué categoría sintáctica son una, dos, mucha, mi, la?"
-  },
-  {
-    "objectID": "w4d1.html#el-sintagma-determinante-sd-2",
-    "href": "w4d1.html#el-sintagma-determinante-sd-2",
-    "title": "Introducción a los sintagmas (“phrases”)",
-    "section": "El Sintagma Determinante (SD)",
-    "text": "El Sintagma Determinante (SD)\nLas oraciones en (11) indican que el determinante (D) y el sustantivo (N) forman unidad sintáctica, ya que se mueven juntos.\n\n\nSe bebió una cerveza.\nUna cerveza, se bebió.\nSe bebió mi cerveza.\nMi cerveza, se bebió.\nSe bebió dos cervezas.\nDos cervezas, se bebió."
-  },
-  {
-    "objectID": "w4d1.html#el-sintagma-determinante-sd-3",
-    "href": "w4d1.html#el-sintagma-determinante-sd-3",
-    "title": "Introducción a los sintagmas (“phrases”)",
-    "section": "El Sintagma Determinante (SD)",
-    "text": "El Sintagma Determinante (SD)\n\nPor lo tanto, representamos una cerveza como en (12).\n\n\n\n\n\nEs decir, el D con un N forman una unidad sintáctica que es el sintagma determinante (SD).\nUna implicación: El SN está dentro del SD. En el siguiente handout, veremos evidencias de que es así."
-  },
-  {
-    "objectID": "w4d2.html#el-sintagma-adjetival-sadj",
-    "href": "w4d2.html#el-sintagma-adjetival-sadj",
-    "title": "Más sintagmas",
-    "section": "El Sintagma Adjetival (SAdj)",
-    "text": "El Sintagma Adjetival (SAdj)\n\n\nLa película es [larga]\nLa película es [muy larga]\n\n\n[Larga] es la película.\n[Muy larga] es la película."
-  },
-  {
-    "objectID": "w4d2.html#el-sintagma-adjetival-sadj-1",
-    "href": "w4d2.html#el-sintagma-adjetival-sadj-1",
-    "title": "Más sintagmas",
-    "section": "El Sintagma Adjetival (SAdj)",
-    "text": "El Sintagma Adjetival (SAdj)\n\n\n3."
-  },
-  {
-    "objectID": "w4d2.html#el-sintagma-adverbial-sadv",
-    "href": "w4d2.html#el-sintagma-adverbial-sadv",
-    "title": "Más sintagmas",
-    "section": "El Sintagma Adverbial (SAdv)",
-    "text": "El Sintagma Adverbial (SAdv)\n\n\nJuan salió [lentamente]\nJuan salió [bastante lentamente]\n\n\n[Lentamente] salió Juan.\n[Bastante lentamente] salió Juan."
-  },
-  {
-    "objectID": "w4d2.html#el-sintagma-adverbial-sadv-1",
-    "href": "w4d2.html#el-sintagma-adverbial-sadv-1",
-    "title": "Más sintagmas",
-    "section": "El Sintagma Adverbial (SAdv)",
-    "text": "El Sintagma Adverbial (SAdv)\n\n\n3."
-  },
-  {
-    "objectID": "w4d2.html#pruebas-de-constituyente",
-    "href": "w4d2.html#pruebas-de-constituyente",
-    "title": "Más sintagmas",
-    "section": "Pruebas de constituyente",
-    "text": "Pruebas de constituyente\n\nEl movimiento (o el desplazamiento) es lo que llamamos una prueba de constituyente.\nUn constituyente es un grupo de palabras que se porta como una unidad sintáctica. A estas unidades, les ponemos etiquetas como SD, SN, SAdj, SAdv, y como veremos más abajo, SV.\nEs decir, los nodos y todo debajo de los nodos forman un constituyente."
-  },
-  {
-    "objectID": "w4d2.html#pruebas-de-constituyente-1",
-    "href": "w4d2.html#pruebas-de-constituyente-1",
-    "title": "Más sintagmas",
-    "section": "Pruebas de constituyente",
-    "text": "Pruebas de constituyente\n\nUna pregunta: ¿Por qué podemos mover SDs, SNs, etc? Respuesta: Porque son constituyentes.\n\nEn este sentido el movimiento es una prueba de constituyente. Y hay más pruebas."
-  },
-  {
-    "objectID": "w4d2.html#la-sustitución",
-    "href": "w4d2.html#la-sustitución",
-    "title": "Más sintagmas",
-    "section": "La sustitución",
-    "text": "La sustitución\n\nEl SD\nCuándo un proforma sustituye una secuencia de palabra y resulta en el mismo significado, esta secuencia de palabras forman un constituyente."
-  },
-  {
-    "objectID": "w4d2.html#la-sustitución-1",
-    "href": "w4d2.html#la-sustitución-1",
-    "title": "Más sintagmas",
-    "section": "La sustitución",
-    "text": "La sustitución\n\n\nJuan se bebió [mi cerveza].\n[Mi cerveza], se bebió Juan.\nc."
-  },
-  {
-    "objectID": "w4d2.html#la-sustitución-2",
-    "href": "w4d2.html#la-sustitución-2",
-    "title": "Más sintagmas",
-    "section": "La sustitución",
-    "text": "La sustitución\n\nAhora, considera las siguientes oraciones.\n\n\n\nJuan se bebió mi cerveza.\nLa compré yo.\nMe costó mucho.\n\n\n\nDecimos que la en (8b) y el sujeto nulo en (8c) sustituye “mi cerveza” ya que se refieren a “mi cerveza”.\nSintácticamente, estos pronombres sustituyen el nodo SD"
-  },
-  {
-    "objectID": "w4d2.html#el-sadj-y-el-sadv",
-    "href": "w4d2.html#el-sadj-y-el-sadv",
-    "title": "Más sintagmas",
-    "section": "El SAdj y el SAdv",
-    "text": "El SAdj y el SAdv\n\nConsidera el SAdj en (9).\n\n\nEsta película es [muy larga]\nAquella lo es también.\nEsta es así también.\n\n\nUna pregunta: ¿Qué sustituye lo en (9b) y así en (9c)? ¿Es decir, que significan lo en (9b) y así en (9c)."
-  },
-  {
-    "objectID": "w4d2.html#el-sadj-y-el-sadv-1",
-    "href": "w4d2.html#el-sadj-y-el-sadv-1",
-    "title": "Más sintagmas",
-    "section": "El SAdj y el SAdv",
-    "text": "El SAdj y el SAdv\n\nConsidera el SAdv en (10).\n\n\n\nJuan salió [bastante lentamente]\nMaría salió así también.\n\n\n\nUna pregunta: ¿Qué sustituye así en (10b)? ¿Es decir, que significa así en (10b)"
-  },
-  {
-    "objectID": "w4d2.html#la-coordinación",
-    "href": "w4d2.html#la-coordinación",
-    "title": "Más sintagmas",
-    "section": "La coordinación",
-    "text": "La coordinación\n\nConsidera las oraciones en (11) en que aparecen las coordinaciones y, ni, y pero"
-  },
-  {
-    "objectID": "w4d2.html#la-coordinación-1",
-    "href": "w4d2.html#la-coordinación-1",
-    "title": "Más sintagmas",
-    "section": "La coordinación",
-    "text": "La coordinación\n\n\nTomas se comió una manzana y un queso.\nLa mesa pequeña y la silla con ruedas tienen que venderse.\nSusana hizo los deberes muy rápidamente y bastante bien.\nCuriosamente, contestó la pregunta bien y mal.\nEl edificio no es muy alto ni muy lujoso.\nUn perro sucio pero simpático durmió en mi garaje."
-  },
-  {
-    "objectID": "w4d2.html#la-coordinación-2",
-    "href": "w4d2.html#la-coordinación-2",
-    "title": "Más sintagmas",
-    "section": "La coordinación",
-    "text": "La coordinación\n\nActividad: Subraya las secuencias de palabras que están coordinadas en (11).\nPregunta: ¿Son constituyentes lo que coordinan y, ni y pero?"
-  },
-  {
-    "objectID": "w4d2.html#el-sintagma-verbal",
-    "href": "w4d2.html#el-sintagma-verbal",
-    "title": "Más sintagmas",
-    "section": "El sintagma verbal",
-    "text": "El sintagma verbal\n\nUna actividad en clase: Considera las oraciones en (12) a (13) con el proforma “hacerlo”.\n\n\n\nCarlos canta.\nConsuelo lo hace también.\n\n\nLaura nada.\nPedro lo hace también.\n\n\n\nPregunta 1: ¿Qué sustituye hacerlo en (12b) y en (13b)?"
-  },
-  {
-    "objectID": "w4d2.html#el-sintagma-verbal-1",
-    "href": "w4d2.html#el-sintagma-verbal-1",
-    "title": "Más sintagmas",
-    "section": "El sintagma verbal",
-    "text": "El sintagma verbal\n\nAhora, considera las oraciones en (14) a (16).\n\n\n\nMaría corrió el maratón rápidamente.\nJosefina lo hizo también.\n\n\nJuana construyó una casa en un año.\nCarla lo hizo también.\n\n\nJorge abrió la puerta con una llave.\nJuan lo hizo también.\n\n\n\nActividad: Subraya las palabras que sustituye hacerlo en (14) a (16).\nActividad: En grupos crea oraciones empleando la coordinación para demostrar que las secuencias de palabras subrayadas en (14) a (16) son constituyentes."
-  },
-  {
-    "objectID": "w4d2.html#los-modificadores",
-    "href": "w4d2.html#los-modificadores",
-    "title": "Más sintagmas",
-    "section": "Los modificadores",
-    "text": "Los modificadores\n\nConsidera el comportamiento de los modificadores de los Ns, Adjs, Advs, y Vs subrayados y las oraciones en (18).\nNota: Estamos observándolos para sacar una regla sintáctica sobre los modificadores."
-  },
-  {
-    "objectID": "w4d2.html#los-modificadores-1",
-    "href": "w4d2.html#los-modificadores-1",
-    "title": "Más sintagmas",
-    "section": "Los modificadores",
-    "text": "Los modificadores\n\n\n17."
-  },
-  {
-    "objectID": "w4d2.html#los-modificadores-2",
-    "href": "w4d2.html#los-modificadores-2",
-    "title": "Más sintagmas",
-    "section": "Los modificadores",
-    "text": "Los modificadores\n\n\nHay un pájaro bonito y un gusano feo en mi jardín.\nJuan canta bien pero baila mal.\n\n\n\nPregunta 1: ¿Por qué en (18a) feo no puede modificar pájaro, y bonito no puede modificar gusano? ¿Por qué bonito solo puede modificar pájaro, y feo solo puede modificar gusano? ¿Por qué en (18b) mal no puede modificar cantar, y bien no puede modificar baila? ¿Por qué bien solo puede modificar cantar, y mal solo puede modificar bailar?"
-  },
-  {
-    "objectID": "w4d2.html#los-modificadores-3",
-    "href": "w4d2.html#los-modificadores-3",
-    "title": "Más sintagmas",
-    "section": "Los modificadores",
-    "text": "Los modificadores\n\nEs decir: ¿Qué conclusión podemos sacar sobre la relación sintáctica entre los modificadores, los elementos modificados y los sintagmas?"
-  },
-  {
-    "objectID": "w4d2.html#los-modificadores-4",
-    "href": "w4d2.html#los-modificadores-4",
-    "title": "Más sintagmas",
-    "section": "Los modificadores",
-    "text": "Los modificadores\n\n¿Dónde tiene que estar el modificador para modificar otro elemento?\nConclusión:"
-  },
-  {
-    "objectID": "w4d2.html#los-modificadores-5",
-    "href": "w4d2.html#los-modificadores-5",
-    "title": "Más sintagmas",
-    "section": "Los modificadores",
-    "text": "Los modificadores\n\nAhora, considera la oración ambigua en (19). Apunta las dos interpretaciones.\n\n\nPedro compró un libro con una moneda.\n\n- Interpretación 1:\n\n- Interpretación 2:"
-  },
-  {
-    "objectID": "w4d2.html#los-modificadores-6",
-    "href": "w4d2.html#los-modificadores-6",
-    "title": "Más sintagmas",
-    "section": "Los modificadores",
-    "text": "Los modificadores\n\nUna pregunta: A base de nuestras conclusiones sobre la relación estructural entre los modificadores y los sintagmas ¿Qué diferencia estructural esperarías entre las dos interpretaciones de la oración ambigua? ¿En qué sintagma estará con una moneda en interpretación 1 y en interpretación 2?"
-  },
-  {
-    "objectID": "w4d2.html#los-modificadores-7",
-    "href": "w4d2.html#los-modificadores-7",
-    "title": "Más sintagmas",
-    "section": "Los modificadores",
-    "text": "Los modificadores\n\nPrincipio de modificación: Si un SX (un sintagma con la categoría X, es decir, cualquier categoría) modifica otro SY, SX es hijo de SY (y por extensión hermano del núcleo de SY).\n\n\nPero ¿Qué significan núcleo, padre, hijo y hermano?\nDefinimos estas nociones estructurales a base de los dos árboles que corresponden a las dos interpretaciones de (19), repetido abajo en (20)."
-  },
-  {
-    "objectID": "w4d2.html#los-modificadores-8",
-    "href": "w4d2.html#los-modificadores-8",
-    "title": "Más sintagmas",
-    "section": "Los modificadores",
-    "text": "Los modificadores\n\nPedro compró un libro con una moneda."
-  },
-  {
-    "objectID": "w4d2.html#los-modificadores-9",
-    "href": "w4d2.html#los-modificadores-9",
-    "title": "Más sintagmas",
-    "section": "Los modificadores",
-    "text": "Los modificadores\n\nPedro compró un libro con una moneda."
-  },
-  {
-    "objectID": "w4d2.html#los-modificadores-10",
-    "href": "w4d2.html#los-modificadores-10",
-    "title": "Más sintagmas",
-    "section": "Los modificadores",
-    "text": "Los modificadores\n\nEn (21a), el SP (con una moneda) es hijo de SN (y hermano de N)\nEn (21b), el SP (con una moneda) es hijo de SV (y hermano de V)"
-  },
-  {
-    "objectID": "w4d2.html#actividad",
-    "href": "w4d2.html#actividad",
-    "title": "Más sintagmas",
-    "section": "Actividad",
-    "text": "Actividad\nPractica: Dibuja los árboles para los siguientes sintagmas\n\n\n\n\nuna cerveza\nuna bonita historia\nuna mujer muy alta\nen la mesa\npara llegar a la hora\nel libro del siglo\nhizo el proyecto lentamente por la mañana\n\n\n\n\npor hablar mucho\nun joven colombiano\nJuan"
-  },
-  {
-    "objectID": "Span_305_syllabus.html",
-    "href": "Span_305_syllabus.html",
-    "title": "Syllabus",
-    "section": "",
-    "text": "Professor: Dr. Rodrigo Delgado\nOffice: 4135 Literatures, Cultures & Linguistics Building (LCLB)\nOffice hours: By appointment only\nemail: rdelga21@illinois.edu"
-  },
-  {
-    "objectID": "Span_305_syllabus.html#objectivos-principales-del-curso",
-    "href": "Span_305_syllabus.html#objectivos-principales-del-curso",
-    "title": "Syllabus",
-    "section": "Objectivos principales del curso",
-    "text": "Objectivos principales del curso\n\nEstudiar las ideas fundamentales de la lingüística generativa.\nEstudiar en profundidad los elementos básicos de la oración del español, varias construcciones sintácticas, y las reglas básicas que regulan la estructura de la oración."
-  },
-  {
-    "objectID": "Span_305_syllabus.html#materiales-del-curso",
-    "href": "Span_305_syllabus.html#materiales-del-curso",
-    "title": "Syllabus",
-    "section": "Materiales del curso",
-    "text": "Materiales del curso\n\nPartes del capítulo 1 y del 4 en Introducción a la lingüística hispánica (2a edición) editado editado por J.I. Hualde, A. Olarrea, A.M. Escobar, y C.E. Travis, Cambridge: CUP.\nLos PPT que se usaran en clase.\nLecturas variadas que estarán disponibles en Canvas. Las lecturas estarán guardadas en la carpeta de la semana correspondiente.\n\nEs muy importante que hagas las lecturas y que asistas a las clases. Las lecturas complementarán y ayudarán a reforzar el material presentado en clase. En clase, habrá varias oportunidades para hacer preguntas, discutir las lecturas y aclarar dudas."
-  },
-  {
-    "objectID": "Span_305_syllabus.html#la-composición-de-la-nota",
-    "href": "Span_305_syllabus.html#la-composición-de-la-nota",
-    "title": "Syllabus",
-    "section": "La composición de la nota:",
-    "text": "La composición de la nota:\n\n4 exámenes: 50%\n\nExamen 1: Septiembre 12\nExamen 2: Octubre 10\nExamen 3: Noviembre 7\nExamen 4: Diciembre 10\n\n8 Tareas: 40%\n\nLas tareas ayudarán a concretar las conceptos que aprenderemos en clase. También servirán como práctica para los examenes.\nSe les dará la tarea el jueves y se tendrá que entregar el siguiente martes durante la clase.\n\nAsistencia: 5%\nParticipación: 5%\n\nLife happens clause - You can invoke the clause on one deadline and get a 3-day extension. No explanation required. To use it, please email me stating that you are invoking the clause and the name of the assignment. Tests are excluded."
-  },
-  {
-    "objectID": "referenciasentido.html",
-    "href": "referenciasentido.html",
-    "title": "Referencia y Sentido",
-    "section": "",
-    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
-  },
-  {
-    "objectID": "handout7.html",
-    "href": "handout7.html",
-    "title": "ST & SC",
+    "objectID": "handout10.html",
+    "href": "handout10.html",
+    "title": "Handout 10",
     "section": "",
     "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },

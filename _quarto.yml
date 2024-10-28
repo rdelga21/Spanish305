@@ -40,6 +40,10 @@ website:
       - section: "Semana 9"
         contents: 
         - handout10.qmd
+      - section: "Semana 10"
+        contents: 
+        - xbar.qmd
+        - carnie.qmd
 format:
   html:
     theme: cosmo

@@ -12,121 +12,118 @@ Este es al programa para el semester.
     siguiente programa está sujeto a cambios, aunque sirve de guía para
     el curso.
 
-+----------------+-----------------------+-----------------------+
-| **Semana**     | **Martes**            | **Jueves**            |
-+================+=======================+=======================+
-| Semana 1       | Agosto 27             | Agosto 29             |
-|                |                       |                       |
-|                | -   Introducción      | -   La lengua como    |
-|                |     histórica         |     parte de nuestros |
-|                | -   La adquisición    |     genes             |
-|                |                       |                       |
-|                |                       | -   La lingüística    |
-|                |                       |     generativa        |
-|                |                       |                       |
-|                |                       | -   La lengua como    |
-|                |                       |     parte innata      |
-|                |                       |                       |
-|                |                       | -   Aprendizaje vs.   |
-|                |                       |     adquisición       |
-|                |                       |                       |
-|                |                       | **Tarea 1**           |
-+----------------+-----------------------+-----------------------+
-| Semana 2       | Septiembre 3          | Septiembre 5          |
-|                |                       |                       |
-|                | -   El objeto de      | -   Las categorías    |
-|                |     estudio           |     sintácticas       |
-|                |                       |     (partes de la     |
-|                | -   Las fuentes de    |     oración)          |
-|                |     datos             |                       |
-|                |                       | **Tarea 2**           |
-|                | -   El método         |                       |
-|                |     científico        |                       |
-|                |                       |                       |
-|                | -   Los rasgos en la  |                       |
-|                |     sintaxis          |                       |
-+----------------+-----------------------+-----------------------+
-| Semana 3       | Septiembre 10         | Septiembre 12         |
-|                |                       |                       |
-|                | Repaso para el examen | **Examen 1**          |
-+----------------+-----------------------+-----------------------+
-| Semana 4       | Septiembre 17         | Septiembre 19         |
-|                |                       |                       |
-|                | -   Introducción a    | -   Introducción a    |
-|                |     los sintagmas     |     los sintagmas     |
-|                |     -   Phrases       |     (cont.)           |
-|                |                       |                       |
-|                |                       | **Tarea 3**           |
-+----------------+-----------------------+-----------------------+
-| Semana 5       | Septiembre 24         | Septiembre 26         |
-|                |                       |                       |
-|                | -   Más sintagmas     | -   Más sintagmas     |
-|                |                       |     (cont.)           |
-|                |                       |                       |
-|                |                       | **Tarea 4**           |
-+----------------+-----------------------+-----------------------+
-| Semana 6       | Octubre 1             | Octubre 3             |
-|                |                       |                       |
-|                | -   Aún más sintagmas | -   La elipsis        |
-|                |                       |                       |
-|                |     -   Tiempo y      | **Tarea 5**           |
-|                |                       |                       |
-|                |     complementante    |                       |
-+----------------+-----------------------+-----------------------+
-| Semana 7       | Octubre 8             | Octubre 10            |
-|                |                       |                       |
-|                | Repaso para el examen | **Examen 2**          |
-+----------------+-----------------------+-----------------------+
-| Semana 8       | Octubre 15            | Octubre 17            |
-|                |                       |                       |
-|                | -   La referencia     | -   Los pronombres    |
-|                |                       |     reflexivos        |
-|                | -   Los determinantes |                       |
-|                |                       |     -   Las reglas    |
-|                | -   Los pronombres    |         structurales  |
-|                |                       |                       |
-|                |                       | **Tarea 6**           |
-+----------------+-----------------------+-----------------------+
-| Semana 9       | Octubre 22            | Octubre 24            |
-|                |                       |                       |
-|                | -   La estructura     | -   Los argumentos    |
-|                |     argumental\       |     vs. los adjuntos  |
-|                |                       |                       |
-|                |                       | **Tarea 7**           |
-+----------------+-----------------------+-----------------------+
-| Semana 10      | Octubre 29            | Octubre 31            |
-|                |                       |                       |
-|                | -   La teoría de X'\  | -   La teoría de X'   |
-|                |                       |     (cont.)           |
-|                |                       |                       |
-|                |                       | **Tarea 8**           |
-+----------------+-----------------------+-----------------------+
-| Semana 11      | Noviembre 5           | Noviembre 7           |
-|                |                       |                       |
-|                | Repaso para el examen | **Examen 3**\         |
-+----------------+-----------------------+-----------------------+
-| Semana 12      | Noviembre 12          | Noviembre 14          |
-|                |                       |                       |
-|                | -   Explicando parte  | -   Explicando parte  |
-|                |     de la variación\  |     de la variación   |
-|                |                       |     (cont.)           |
-|                |                       |                       |
-|                |                       | **Tarea 9**           |
-+----------------+-----------------------+-----------------------+
-| Semana 14      | Noviembre 19          | Noviembre 21          |
-|                |                       |                       |
-|                | -   El movimiento de  | -   El movimiento de  |
-|                |     V a T             |     T a C             |
-|                |                       |                       |
-|                |                       | **Tarea 10**          |
-+----------------+-----------------------+-----------------------+
-| **Fall break** | **Fall break**        | **Fall break**        |
-+----------------+-----------------------+-----------------------+
-| Semana 15      | December 3\           | December 5\           |
-|                | **Conferencia – No    | **Conferencia - No    |
-|                | hay clase**           | hay clase**           |
-+----------------+-----------------------+-----------------------+
-| Semana 16      | December 10\          | December 12\          |
-|                | **Examen Final**      | **Reading day** (no   |
-|                |                       | hay clase)            |
-+----------------+-----------------------+-----------------------+
++----------------+------------------------+------------------------+
+| **Semana**     | **Martes**             | **Jueves**             |
++================+========================+========================+
+| Semana 1       | Agosto 27              | Agosto 29              |
+|                |                        |                        |
+|                | -   Introducción       | -   La lengua como     |
+|                |     histórica          |     parte de nuestros  |
+|                | -   La adquisición     |     genes              |
+|                |                        |                        |
+|                |                        | -   La lingüística     |
+|                |                        |     generativa         |
+|                |                        |                        |
+|                |                        | -   La lengua como     |
+|                |                        |     parte innata       |
+|                |                        |                        |
+|                |                        | -   Aprendizaje vs.    |
+|                |                        |     adquisición        |
+|                |                        |                        |
+|                |                        | **Tarea 1**            |
++----------------+------------------------+------------------------+
+| Semana 2       | Septiembre 3           | Septiembre 5           |
+|                |                        |                        |
+|                | -   El objeto de       | -   Las categorías     |
+|                |     estudio            |     sintácticas        |
+|                |                        |     (partes de la      |
+|                | -   Las fuentes de     |     oración)           |
+|                |     datos              |                        |
+|                |                        | **Tarea 2**            |
+|                | -   El método          |                        |
+|                |     científico         |                        |
+|                |                        |                        |
+|                | -   Los rasgos en la   |                        |
+|                |     sintaxis           |                        |
++----------------+------------------------+------------------------+
+| Semana 3       | Septiembre 10          | Septiembre 12          |
+|                |                        |                        |
+|                | Repaso para el examen  | **Examen 1**           |
++----------------+------------------------+------------------------+
+| Semana 4       | Septiembre 17          | Septiembre 19          |
+|                |                        |                        |
+|                | -   Introducción a los | -   Introducción a los |
+|                |     sintagmas          |     sintagmas (cont.)  |
+|                |     -   Phrases        |                        |
+|                |                        | **Tarea 3**            |
++----------------+------------------------+------------------------+
+| Semana 5       | Septiembre 24          | Septiembre 26          |
+|                |                        |                        |
+|                | -   Más sintagmas      | -   Más sintagmas      |
+|                |                        |     (cont.)            |
+|                |                        |                        |
+|                |                        | **Tarea 4**            |
++----------------+------------------------+------------------------+
+| Semana 6       | Octubre 1              | Octubre 3              |
+|                |                        |                        |
+|                | -   Aún más sintagmas  | -   La elipsis         |
+|                |                        |                        |
+|                |     -   Tiempo y       | **Tarea 5**            |
+|                |                        |                        |
+|                |     complementante     |                        |
++----------------+------------------------+------------------------+
+| Semana 7       | Octubre 8              | Octubre 10             |
+|                |                        |                        |
+|                | Repaso para el examen  | **Examen 2**           |
++----------------+------------------------+------------------------+
+| Semana 8       | Octubre 15             | Octubre 17             |
+|                |                        |                        |
+|                | -   La referencia      | -   Los pronombres     |
+|                |                        |     reflexivos         |
+|                | -   Los determinantes  |                        |
+|                |                        |     -   Las reglas     |
+|                | -   Los pronombres     |         structurales   |
+|                |                        |                        |
+|                |                        | **Tarea 6**            |
++----------------+------------------------+------------------------+
+| Semana 9       | Octubre 22             | Octubre 24             |
+|                |                        |                        |
+|                | -   La estructura      | -   Los argumentos vs. |
+|                |     argumental\        |     los adjuntos       |
+|                |                        |                        |
+|                |                        | **Tarea 7**            |
++----------------+------------------------+------------------------+
+| Semana 10      | Octubre 29             | Octubre 31             |
+|                |                        |                        |
+|                | -   La teoría de X'\   | -   La teoría de X'    |
+|                |                        |     (cont.)            |
+|                |                        |                        |
+|                |                        | **Tarea 8**            |
++----------------+------------------------+------------------------+
+| Semana 11      | Noviembre 5            | Noviembre 7            |
+|                |                        |                        |
+|                | Repaso para el examen  | **Examen 3**\          |
++----------------+------------------------+------------------------+
+| Semana 12      | Noviembre 12           | Noviembre 14           |
+|                |                        |                        |
+|                | -   C-mando\           | -   C-mando            |
+|                |                        |                        |
+|                |                        | **Tarea 9**            |
++----------------+------------------------+------------------------+
+| Semana 14      | Noviembre 19           | Noviembre 21           |
+|                |                        |                        |
+|                | -   El movimiento de V | -   El movimiento de T |
+|                |     a T                |     a C                |
+|                |                        |                        |
+|                |                        | **Tarea 10**           |
++----------------+------------------------+------------------------+
+| **Fall break** | **Fall break**         | **Fall break**         |
++----------------+------------------------+------------------------+
+| Semana 15      | December 3\            | December 5\            |
+|                | **Conferencia – No hay | **Conferencia - No hay |
+|                | clase**                | clase**                |
++----------------+------------------------+------------------------+
+| Semana 16      | December 10\           | December 12\           |
+|                | **Examen Final**       | **Reading day** (no    |
+|                |                        | hay clase)             |
++----------------+------------------------+------------------------+
