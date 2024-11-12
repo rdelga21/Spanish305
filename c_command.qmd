@@ -3,9 +3,9 @@ title: "Mando-C"
 ---
 
 ```{=html}
-<object data="c-command.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+<object data="c_command.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="c-command.pdf">click here to
+    No biggie... you can <a href="c_command.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
