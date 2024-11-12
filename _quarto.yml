@@ -44,6 +44,10 @@ website:
         contents: 
         - xbar.qmd
         - carnie.qmd
+      - section: "Semana 12"
+        contents: 
+        - carniech4.qmd
+        - c_command.qmd
 format:
   html:
     theme: cosmo
