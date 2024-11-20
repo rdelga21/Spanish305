@@ -48,6 +48,11 @@ website:
         contents: 
         - carniech4.qmd
         - c_command.qmd
+      - section: "Semana 13"
+        contents: 
+        - carnie10.qmd
+        - vttc.qmd
+      
 format:
   html:
     theme: cosmo
